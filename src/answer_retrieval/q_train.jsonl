@@ -1,0 +1,1000 @@
+{"id": 3292, "text": "Explain the purpose, content, and type of the variables created in the class.", "doc_id": null}
+{"id": 3672, "text": "What about count_True_card?", "doc_id": null}
+{"id": 2176, "text": "What is the role of the harvestoneline_way2() function in Task4?", "doc_id": null}
+{"id": 3149, "text": "Please help me because I can't understand the part that I show the picture and flip it over again.\nWhen I bring up the number pad again, it says that the object is already on the canvas. How can I fix this?", "doc_id": null}
+{"id": 4291, "text": "Could you please help me with the beeper hubo harvesting?I tried using the if conditional, but the beeper remains the same.", "doc_id": null}
+{"id": 3899, "text": "Why should we write n-1 instead of n on line 6?", "doc_id": null}
+{"id": 1982, "text": "The def_to_any_list function and the dec_to_any_string function do the same thing. Is it the difference between using a list or a string?", "doc_id": null}
+{"id": 790, "text": "If you defined a list called deck in main\nWhat if I want to use it in other functions???", "doc_id": null}
+{"id": 2866, "text": "Please explain what upper_bound does in Task 1", "doc_id": null}
+{"id": 3114, "text": "task4 Please explain the two_row function", "doc_id": null}
+{"id": 1538, "text": "So, in Python, can both types be considered and used as the same function??Or I am wondering if there are situations where you need to be especially careful with Python", "doc_id": null}
+{"id": 4552, "text": "Could you please briefly explain the round_back function.", "doc_id": null}
+{"id": 2492, "text": "Yes, if you enter 1,2,3, it becomes a,b,c in order, so 1+2=3 equation holds.\nIs a,b,c supposed to be assigned in order of size??", "doc_id": null}
+{"id": 2774, "text": "What should I do in task 1 where it says Do something on here?", "doc_id": null}
+{"id": 861, "text": "By the way, where do you find the bright and dark criteria in Task5?", "doc_id": null}
+{"id": 3968, "text": "Why does global tries on line 124 cause a syntax error??", "doc_id": null}
+{"id": 496, "text": "Yes thank youBut when I run the code, it seems that the value that has not been reversed is returned.", "doc_id": null}
+{"id": 472, "text": "I want to use the value of avenues, which is the width, is there any way?", "doc_id": null}
+{"id": 271, "text": "but if excuted 12 times it will hit the wall", "doc_id": null}
+{"id": 1007, "text": "I have a question from task 1!Is there a function like reverse of a list when changing the order of str?First of all, there seems to be no function called reverse, so I used a for statement to access the index and print it reversed..", "doc_id": null}
+{"id": 2850, "text": "What is the meaning of the turn variable used here?", "doc_id": null}
+{"id": 3919, "text": "I'm going to check it now. Can you explain how you made it for each task in the meantime?", "doc_id": null}
+{"id": 1323, "text": "Doesn't the given file originally provide the average temperature for each month in each year\nCan I just export this to csv?", "doc_id": null}
+{"id": 4422, "text": "Hello, I don't know why task #5 hits the wall.", "doc_id": null}
+{"id": 1003, "text": "So, can I leave the parentheses blank?", "doc_id": null}
+{"id": 1500, "text": "Can I just make it not hit the wall?", "doc_id": null}
+{"id": 1921, "text": "Please explain briefly one by one what the attributes of the created Car class are.", "doc_id": null}
+{"id": 2657, "text": "if my_robot.left_is_clear:\n            my_robot.drop_beeper()\nIt seems that this part doesn't work well. Is there something wrong?", "doc_id": null}
+{"id": 4477, "text": "There seems to be no difference between odd and even numbers in street, is that correct?", "doc_id": null}
+{"id": 3031, "text": "Briefly explain the name and action of the function you add in Task1!", "doc_id": null}
+{"id": 1591, "text": "So, if all pairs are found in this game, does that mean the correct_list is full...?", "doc_id": null}
+{"id": 2330, "text": "How did you decide how to translate and put the pixel values in task2?", "doc_id": null}
+{"id": 846, "text": "How did you make the north look from any direction?", "doc_id": null}
+{"id": 2682, "text": "I think you only need to explain the overall principle 3~", "doc_id": null}
+{"id": 49, "text": "Is there a function that converts a number to base 10 or more...?", "doc_id": null}
+{"id": 1775, "text": "It seems you have a variable called \"peak\". It that the bird's beak added to the bird layer?", "doc_id": null}
+{"id": 2639, "text": "How do I remove the first line?", "doc_id": null}
+{"id": 1806, "text": "In task2's show_animation() function, I ask how to get and use the picture of draw_animal().", "doc_id": null}
+{"id": 2816, "text": "Please explain the attributes added to the Card class in Task 1.", "doc_id": null}
+{"id": 1319, "text": "Why should I check if it's the wrong way?", "doc_id": null}
+{"id": 118, "text": "In Task 2\nMake two lists and print them\nList of tuples (country code, country name)\nList of tuples (country code, (latitude, longitude))\nI want to check this part in the description, but which part can I print?", "doc_id": null}
+{"id": 1001, "text": "How did you calculate the number of # in Task4?", "doc_id": null}
+{"id": 4605, "text": "Why should I print up to 2pi for question 3?", "doc_id": null}
+{"id": 1229, "text": "In the case of state, should it be considered in the draw_card function, not automatically adjusted in the main function?", "doc_id": null}
+{"id": 3746, "text": "How did you set the numbers 95 and 190?", "doc_id": null}
+{"id": 2737, "text": "Is the unit of the rotate function degree and the unit of the sin cos function correct?", "doc_id": null}
+{"id": 71, "text": "Please briefly explain what function the harvest() you created is~", "doc_id": null}
+{"id": 3368, "text": "I tried to remove it using the for statement and the if statement, but an error appears stating that the index is out of range ㅠㅠ I do not know why this is ㅠㅠ", "doc_id": null}
+{"id": 2430, "text": "For vertical, please briefly explain the image conversion process", "doc_id": null}
+{"id": 3826, "text": "Can you give me a hint on how to approach moving pixels at an angle in task2..ㅠㅠ", "doc_id": null}
+{"id": 4076, "text": "Okay, so I can just get rid of the hubo. when defining functions?", "doc_id": null}
+{"id": 1383, "text": "Please explain why you wrote line 5", "doc_id": null}
+{"id": 4502, "text": "I changed the range to 9 over there, but it doesn't work, so I wonder why\nThere, one_loop() is also written next\nWhat is the problem?", "doc_id": null}
+{"id": 2476, "text": "I framed the code like this in number 1, but if I run it in this case, the value in the parenthesis is str, which says that in the code like covid19_patient_list[\"Patient Name\"] = name in the add function, the list must contain an int value.I don't understand", "doc_id": null}
+{"id": 2710, "text": "I am doing Task2, but when I execute the statement dropping the beeper when the robot is not on the beeper, the error RobotError(\"I am not carrying any beepers.\") appears.\nHow do I get the robot to have multiple beepers in the first place?", "doc_id": null}
+{"id": 4412, "text": "How did you make your torso and limbs move together?", "doc_id": null}
+{"id": 2004, "text": "Is that because the global _scene is in the create_world function", "doc_id": null}
+{"id": 3881, "text": "What does setDepth do when stacking cards in draw_card?Which variables were you stacked in order?", "doc_id": null}
+{"id": 1499, "text": "So what does your code do if the robot is not walking along the walking path?", "doc_id": null}
+{"id": 3336, "text": "Can I just press it when entering keyboard input, or do I have to press enter after typing in the window just like when entering normal text input?", "doc_id": null}
+{"id": 102, "text": "what should i do to correct it\ndo you have any suggestions", "doc_id": null}
+{"id": 1688, "text": "Can it be as if I wrote it from line 59?\nBut when I do that, an error pops up...", "doc_id": null}
+{"id": 1135, "text": "In Task 3, x = float(i) / (n-1) * 2 * pi What is the reason for using n-1 here?", "doc_id": null}
+{"id": 2660, "text": "Could you please explain what the role of finalstring is in Task 1.", "doc_id": null}
+{"id": 103, "text": "So, should I set the time to show all pictures to time.sleep?", "doc_id": null}
+{"id": 4398, "text": "Is the check function the same or different but visible pictures corresponding to two numbers?", "doc_id": null}
+{"id": 2063, "text": "I am now taking balance as a parameter of the function\nCan't I do this", "doc_id": null}
+{"id": 33, "text": "So, in the case of while 1:, if the front is blocked, does it stay in the walk function?", "doc_id": null}
+{"id": 3635, "text": "Why use global balance in task1?", "doc_id": null}
+{"id": 2091, "text": "When I need to return an error string, c language uses a separate function like errstr. Is it enough to just return “WRONG_INFORMATION” for this assignment?", "doc_id": null}
+{"id": 2347, "text": "should I make the body parts global variables?", "doc_id": null}
+{"id": 926, "text": "Please explain the function dec_to_any_string used in task 1!", "doc_id": null}
+{"id": 3447, "text": "How does check show the screen?", "doc_id": null}
+{"id": 2549, "text": "Could you explain task 4's block function?", "doc_id": null}
+{"id": 1465, "text": "I'm not sure how to make hurdle.worlds", "doc_id": null}
+{"id": 2911, "text": "In task2 function show_animation, I am trying to move objects included in the canvas, but they can't be called undefined objects in the function... I'm not sure how to call them, please advice", "doc_id": null}
+{"id": 3312, "text": "Is it correct to compare the two pictures in task1 through each attribute in the case of an object?", "doc_id": null}
+{"id": 3647, "text": "Unlike number 4, the last 5 must move diagonally to pick up the beeper. Please introduce how you implemented this movement method.", "doc_id": null}
+{"id": 2217, "text": "good!In Task 3, is the parameter of the sin function degree or radian?", "doc_id": null}
+{"id": 2910, "text": "Yes I confirmed it!Could you please explain what the count_world function of the last task is?", "doc_id": null}
+{"id": 4240, "text": "Please briefly explain what the variable bo in Task 1 does.", "doc_id": null}
+{"id": 2286, "text": "Then the else statement of print_cards() will not be executed at all, but the number cards have to be drawn later in the check function?", "doc_id": null}
+{"id": 2745, "text": "What made the wheel go up in task2 was to make the movement happen in the main object, isn't it?", "doc_id": null}
+{"id": 1750, "text": "Thank you!Could you briefly explain what the head and tail mean in Task 1?", "doc_id": null}
+{"id": 4468, "text": "In the close() function, as a result of looking up, it can be slowed down because it eats up RAM, so I use it as well as it is a good habit, but I am not sure why it is necessary.", "doc_id": null}
+{"id": 518, "text": "In Task 5, output_str = '' * (character_count_per_line-1) +'*'\n'' * (character_count_per_line-1) Why is this part necessary?", "doc_id": null}
+{"id": 2105, "text": "I don't know when to use random.", "doc_id": null}
+{"id": 4492, "text": "but weird thing is when I run it, for sin(pi) and sin(2pi) it gives wrong values (I don't know why)", "doc_id": null}
+{"id": 573, "text": "Can you briefly explain what dmoveandpick() function does in your Task5?", "doc_id": null}
+{"id": 3468, "text": "Then is there a way to use the terminal used in python within this elice?", "doc_id": null}
+{"id": 2422, "text": "In Task 1, it was written even though I didn't enter .jpg. Why?", "doc_id": null}
+{"id": 1481, "text": "Do I have to print all those lists?", "doc_id": null}
+{"id": 4146, "text": "Well, the point I want to ask is that I want to stop as soon as it exceeds 1000, but I pass it once and the for statement stops.", "doc_id": null}
+{"id": 1886, "text": "It appears as a file with no world", "doc_id": null}
+{"id": 1616, "text": "nope i keep getting type error\nTypeError: sequence item 1: expected str instance, list found", "doc_id": null}
+{"id": 1327, "text": "In task1, when inserting an object into the list, the code was executed in the state that each attribute was written in parentheses in Card(), but in task2, it appears as an error to write attributes in parentheses.Can you see where the two have different results?", "doc_id": null}
+{"id": 554, "text": "I'll ask again, please briefly explain the behavior of the function zigzag!", "doc_id": null}
+{"id": 2923, "text": "Oh, I have a question, if you don't close the file on line 41 of task 3, only a blank spreadsheet is created. Can you see why?", "doc_id": null}
+{"id": 4245, "text": "But AttributeError:'Apple' object has no attribute'move' keeps coming up.", "doc_id": null}
+{"id": 4419, "text": "How do you'visualize' flipping the card?\nI know that the photo file has the same name, but it would be nice if I could write an if statement with the name, how do I flip the screen?.ㅜㅜ\nYou have to code between ###### and #####?", "doc_id": null}
+{"id": 2785, "text": "First, I tried to remember the coordinates, but I got a strange error.", "doc_id": null}
+{"id": 1534, "text": "Then, should we just use the scenario function outside of it?", "doc_id": null}
+{"id": 3314, "text": "In question 3, should I also print the countries included in the start date and end date?", "doc_id": null}
+{"id": 2860, "text": "And the matched cards don't accumulate and they keep resetting. Can I ask why?", "doc_id": null}
+{"id": 333, "text": "Please explain the doitt function", "doc_id": null}
+{"id": 1740, "text": "Please explain the average_integers function #2", "doc_id": null}
+{"id": 1533, "text": "Yes, when I run task2, the return deck says invalid syntax, and I don't know why.", "doc_id": null}
+{"id": 1584, "text": "Could you explain the move1 function of Task 4?", "doc_id": null}
+{"id": 396, "text": "Can you explain why beepers=1 is needed when creating hubo in Task 3?", "doc_id": null}
+{"id": 4496, "text": "task3 Please explain the climb up and down functions", "doc_id": null}
+{"id": 4198, "text": "How do you think about count integers...?", "doc_id": null}
+{"id": 444, "text": "In number 2, tell me why you need num_list.sort() in the last count function!", "doc_id": null}
+{"id": 186, "text": "What carries_beeper does in 26-27\nPlease tell me simply", "doc_id": null}
+{"id": 2829, "text": "What does %6.1f mean when using the formatting operator% in task3?", "doc_id": null}
+{"id": 623, "text": "For task 2, can you explain the is_triangle function and what it does?", "doc_id": null}
+{"id": 2228, "text": "Assistant, I think I wrote the code correctly, but I can't run it.", "doc_id": null}
+{"id": 4054, "text": "Please explain the check function created in Task 3.", "doc_id": null}
+{"id": 1018, "text": "for i in range(4):\n    hubo.turn_left()\n    hubo.move()\n    hubo.turn_left()\n    move_nine_times()\n    turn_right()\n    hubo.move()\n    turn_right()\n    move_nine_times()\ncan you explain this part?\nwhy the range is 4", "doc_id": null}
+{"id": 1223, "text": "Are only 12 of the 24 pictures shown?\nOh, then, do you have 4 of the same pictures?", "doc_id": null}
+{"id": 2407, "text": "And I have a question in Task 3\nThe Elice system has its own code execution time limit,\nI'm getting a time limit to play the game, is there any way to ignore this and make the code run longer?", "doc_id": null}
+{"id": 352, "text": "Good morning.I have a question, I ask.In task2, I clearly set the eye depth to 10 and the neck depth is less than 20. Why is the eye covered by the neck?", "doc_id": null}
+{"id": 3373, "text": "Task4 What is the role of the har() function?", "doc_id": null}
+{"id": 803, "text": "Can you explain why step-1 is divided by one value in task 3?", "doc_id": null}
+{"id": 4296, "text": "Can I then remove it again?", "doc_id": null}
+{"id": 3025, "text": "Should all 6 photos be used in Lab 3 Task 3-2-2?", "doc_id": null}
+{"id": 3159, "text": "Isn't it necessary to use global to get and use a global variable in a function?\nIs it not necessary to modify the variable value?", "doc_id": null}
+{"id": 4007, "text": "What is the unit of x in sin(x) in task3?", "doc_id": null}
+{"id": 1532, "text": "I'm getting an error, can you explain why?\nIt seems like that in the process of printing that text to Paint.", "doc_id": null}
+{"id": 2324, "text": "Are you talking about taking input and moving while moving without any input?", "doc_id": null}
+{"id": 2961, "text": "Can I start using the same interaction at the beginning of the example?", "doc_id": null}
+{"id": 3173, "text": "I tried running the interactive() function in Mario and I asked for help because it didn't work.", "doc_id": null}
+{"id": 1606, "text": "(int(w+move1), int(h), (r,g,b)) Wasn't resetting w and h in this part to set the color to the right position...?", "doc_id": null}
+{"id": 756, "text": "I'm seeing it's slow, but Hubo doesn't drop the beeper even when i+j>9 over there", "doc_id": null}
+{"id": 718, "text": "How exactly do I visualise the screen?", "doc_id": null}
+{"id": 3499, "text": "As long as you pick up all the beepers in number 4, the last position doesn't matter, right?", "doc_id": null}
+{"id": 1116, "text": "What kind of function is move created in task1?", "doc_id": null}
+{"id": 4500, "text": "Is the number of tries checked in the check function?", "doc_id": null}
+{"id": 1815, "text": "Now, I modified the initialize function so that cards are randomly assigned, and the function does not run.", "doc_id": null}
+{"id": 1088, "text": "I modified integer to string, but the number corresponding to new_num still does not appear...", "doc_id": null}
+{"id": 3357, "text": "Can I change my_robot to hubo?", "doc_id": null}
+{"id": 2511, "text": "I'm going to check it now. Can you explain how you made it for each task in the meantime?", "doc_id": null}
+{"id": 1958, "text": "How did you implement the two cards to show a picture when checking two cards?", "doc_id": null}
+{"id": 737, "text": "What is the purpose of the variable n?", "doc_id": null}
+{"id": 2884, "text": "What is the reason for dividing it by 6 on line 112?", "doc_id": null}
+{"id": 3308, "text": "Please briefly explain how jump_go() proceeds among the implemented functions.", "doc_id": null}
+{"id": 4327, "text": "Did you mean to define a new east-facing function using the facing_north function?", "doc_id": null}
+{"id": 4102, "text": "But I still don't understand how other students simplified task3.In the structure of executing initialize() on line 121 first, then print_cards() on line 122, modifying the part in ### 3-2-2~ ### in def print_cards()Can I just show it for 1 second and flip it again?It seems like my code has become useless by modifying parts that do not need to be modified", "doc_id": null}
+{"id": 1161, "text": "In the first task I am not sure about delete the usage of correct list\nJust delete and that's it or we need to replace it by another function?", "doc_id": null}
+{"id": 687, "text": "Test 3 completed. Please explain!", "doc_id": null}
+{"id": 2683, "text": "Is there a reason you used while to give coins?", "doc_id": null}
+{"id": 3850, "text": "What if I just don't want to do anything", "doc_id": null}
+{"id": 175, "text": "I tried using create picture function and used sin and cos relation, but I am getting very small picture size, that's why I was asking you TA", "doc_id": null}
+{"id": 1392, "text": "What is the role of the a,b variables of task1 add?", "doc_id": null}
+{"id": 1703, "text": "I'm not sure where the error is coming from.Can you help?", "doc_id": null}
+{"id": 2394, "text": "Please explain how you solved each problem haha", "doc_id": null}
+{"id": 2375, "text": "From number 5\ndef u_turn_left():\n    hubo.turn_left()\n    hubo.move()\n    hubo.turn_left()\n\ndef u_turn_right():\n    turn_right()\n    hubo.move()\n    turn_right()\nPlease explain each of these functions", "doc_id": null}
+{"id": 3266, "text": "Briefly explain the role of the image.get(x,y) function and the image.set(x,y, __) function in Task5.", "doc_id": null}
+{"id": 2526, "text": "In #4, please explain the while and if statements that hubo used to determine the window and how to get out of the door.", "doc_id": null}
+{"id": 4056, "text": "I am curious about how %f works", "doc_id": null}
+{"id": 1739, "text": "And can you tell me a function to subtract a layer from the canvas?", "doc_id": null}
+{"id": 785, "text": "In line 35, is there any particular reason why it is not in for-loop (line 29) ?", "doc_id": null}
+{"id": 3668, "text": "Task 4 has been checked.\nPlease briefly explain the one_period function", "doc_id": null}
+{"id": 1354, "text": "Please explain the code for task1", "doc_id": null}
+{"id": 3545, "text": "Is it a grammatical error?", "doc_id": null}
+{"id": 4275, "text": "Output.txt is received as input, but is it not existing, but I make it?", "doc_id": null}
+{"id": 1227, "text": "Can I just write the code with the structure of the house in mind?\nWhatever the structure of the house does not work, it works only in those two cases!\nOnly for rain1 and rain2.", "doc_id": null}
+{"id": 1711, "text": "please explain what card class attribute do you make", "doc_id": null}
+{"id": 447, "text": "Is it correct to show all the pictures?Or, checking the pictures in the cards list, there were a total of 6 pairs of 4 of the same pictures. Should I show only 2 of the 4?", "doc_id": null}
+{"id": 237, "text": "And after the dog jumps, the wal wal! is printed, I don't know if this is what you intended.I don't want the message to stick to the wall, so now I can't move after jumping.", "doc_id": null}
+{"id": 4281, "text": "If you are here, then remove the correct_list use\nAre you saying you should put something like state in the card class?", "doc_id": null}
+{"id": 3224, "text": "Overall, please briefly explain how you implemented Hubo to move in zigzag according to size!", "doc_id": null}
+{"id": 4027, "text": "But the trace seems to be partially invisible in the execution result, but I don't know what the problem is.", "doc_id": null}
+{"id": 4037, "text": "Is the path of the robot going back and forth from end to end in Task1 okay?", "doc_id": null}
+{"id": 1220, "text": "The 3rd and 5th values are displayed near 0 instead of 0. Can you check where there is an error?", "doc_id": null}
+{"id": 3908, "text": "How did you notice that there is a window in Task4?", "doc_id": null}
+{"id": 4029, "text": "Can I complete the Honor_code test?", "doc_id": null}
+{"id": 4344, "text": "Can you please check my animation?", "doc_id": null}
+{"id": 1807, "text": "It says that it was referenced before assigning, but on line 14 it was declared as correct = 0.I'm using correct as a global variable, shouldn't it be called in a function like this?", "doc_id": null}
+{"id": 3257, "text": "For task 4, what is the role of the variable i?", "doc_id": null}
+{"id": 3805, "text": "Is the test time extended until 9:15?Should I just give up if I press Start at 6 and it ends at 9?", "doc_id": null}
+{"id": 881, "text": "Dec_to_any_list and dec_to_any_string each returned the desired value. Which of the two functions should be output as the return value?", "doc_id": null}
+{"id": 3057, "text": "In the case of the getReferencePoint() function, the return value comes out as a Point. Is there a way to save each value of this Point as a variable?", "doc_id": null}
+{"id": 3664, "text": "Please also explain the average_integers() function in task2!", "doc_id": null}
+{"id": 1738, "text": "And for number 5, I'm not sure how to end Hubo's move.\nI wanted to make a while loop using that point because the front and left sides are blocked when Hubo reaches the end point, but this condition is the same when it reaches the first vertex, so I don't know what to do.\nI was thinking to put the part left out with # in the while loop, but I don't know how to write a big while loop", "doc_id": null}
+{"id": 2461, "text": "hubo = Robot(orientation='S', avanue=7, street=5)\nI put it like this\nI get an error...", "doc_id": null}
+{"id": 720, "text": "So how do I get it out of the folder and use it to set the image for each card?", "doc_id": null}
+{"id": 2497, "text": "There is no 41st line, but a syntaxerror appears in the 41st line..T What part of my code is wrong?", "doc_id": null}
+{"id": 3984, "text": "Yes, lastly, in task5, please briefly explain how to classify into three colors!", "doc_id": null}
+{"id": 879, "text": "Have you ever tried, can't it work like this??", "doc_id": null}
+{"id": 4423, "text": "Yes, then I don't know if it's correct yet, but how did you solve the problem of flipping the card you chose?", "doc_id": null}
+{"id": 2969, "text": "Why did you define a separate function called pick()?", "doc_id": null}
+{"id": 2245, "text": "inside the draw_animal() function\nAfter making an animal by making a body and a wing in the bird layout\n\nIn the show_animation() function\nCan I directly access the bird's body and wing?", "doc_id": null}
+{"id": 156, "text": "Can I choose the starting direction position arbitrarily", "doc_id": null}
+{"id": 1896, "text": "I have now set the condition to i in correct_list. If you do this, the parts that cannot be satisfied\nAt first, you have to show all the cards for a while\nEven if you enter the wrong pair, you have to turn the card over and turn it back to the original, right?\nIt seems that these two are difficult to solve by just changing the conditions.", "doc_id": null}
+{"id": 292, "text": "Can you explain what jump_one_hurdle() in Task 3 does?", "doc_id": null}
+{"id": 4581, "text": "Ta, I had a question, why does my code keep on getting shorter each time it picks more beepers? What can I do to keep the length constant?\nFor instance, when I run the code, it works perfectly fine on row 2 (in the robot world) without any problem. However, when it goes to  rows 3 and 4 (in the robot world), hubo moves a shorter path?\nIs there something wrong with my harvest function?", "doc_id": null}
+{"id": 955, "text": "What does hubo.carries_beepers() do on line 18?", "doc_id": null}
+{"id": 1684, "text": "Please briefly explain why the pick_and_move function was divided by 1,2", "doc_id": null}
+{"id": 4476, "text": "Then, isn't it necessary to write a separate code for the state?", "doc_id": null}
+{"id": 1964, "text": "I solved task1,2, but I don't know how to print the card of task3 3.1.2", "doc_id": null}
+{"id": 1033, "text": "How did you handle the case of comma in the country name in Task 2?", "doc_id": null}
+{"id": 174, "text": "What does it mean for animation to happen at the same time?", "doc_id": null}
+{"id": 1486, "text": "```\nc=Card(IMG[k], names[k], False)\n```\nIn this part, I wonder why an error pops up saying that the object does not have a parameter.", "doc_id": null}
+{"id": 3522, "text": "Why did you define a function by dividing if and else in Task 3?", "doc_id": null}
+{"id": 769, "text": "There is hubo.set_pause(0.1) in task1. What is the role?", "doc_id": null}
+{"id": 3206, "text": "I set a global variable to get the number of beepers to drop at the end of the task, and I tried to add one each time I picked it up, but an error pops up ㅠㅠ Why?", "doc_id": null}
+{"id": 4221, "text": "Are you receiving it outside the function?", "doc_id": null}
+{"id": 2376, "text": "Could you just give me a hint? ㅠㅠ I don't know how long to specify the loop when the number of lines is odd or even.", "doc_id": null}
+{"id": 1931, "text": "What is hubo.on_beeper()?", "doc_id": null}
+{"id": 2272, "text": "How do I set the condition to execute the function called skew(img,vertical,20)???\nI tried running it and it says name not defined in direction==vertical..!", "doc_id": null}
+{"id": 1062, "text": "Then how do I return it", "doc_id": null}
+{"id": 3830, "text": "Oh, is it a function related to keyboard input in marioworld.py?", "doc_id": null}
+{"id": 3071, "text": "Please explain the zigzag1 function of task4", "doc_id": null}
+{"id": 3285, "text": "It's too long, so I'm trying to simplify it with the front like this\nIs it possible?", "doc_id": null}
+{"id": 3957, "text": "if ll.on_beeper():\n            ll.pick_beeper()\n            break\nShouldn't we go forward with this code, fine it, and stop when we recognize the starting point?", "doc_id": null}
+{"id": 2017, "text": "The answer should be 2291, but 2281 is coming. May I ask you to check it?", "doc_id": null}
+{"id": 88, "text": "If so, do we have to express line breaks without'\\n'?", "doc_id": null}
+{"id": 1747, "text": "How do you do send file??In fact, I'm not sure about the features in import elice_utils yet.", "doc_id": null}
+{"id": 3184, "text": "What are you doing inside a function called pick()?", "doc_id": null}
+{"id": 3429, "text": "```\ntan(pi()*angle/180)\n```\nI keep getting an error saying float object is not callable at this point. Why?", "doc_id": null}
+{"id": 839, "text": "Could you please explain how you implemented Task 5!", "doc_id": null}
+{"id": 2327, "text": "NameError: name'elice_utils' is not defined\nHow do I solve this?", "doc_id": null}
+{"id": 1651, "text": "Could you briefly explain the meaning of the variable t?", "doc_id": null}
+{"id": 2486, "text": "What do the av and st variables do?", "doc_id": null}
+{"id": 3983, "text": "I now want to close the window through left_is_clear, but then there is a problem in the rain2 module\nI don’t know what to do, so I’m asking", "doc_id": null}
+{"id": 924, "text": "I'm sorry, but was the part you pointed out for task1 in the lecture??", "doc_id": null}
+{"id": 1362, "text": "Traceback (most recent call last):\n  File \"harvest.py\", line 2, in <module>\n    load_world('worlds/harvest.wld')\n  File \"/usr/local/lib/python3.6/site-packages/cs1robots.py\", line 292, in load_world\n    txt = open(filename, 'r').read()\nFileNotFoundError: [Errno 2] No such file or directory: 'worlds/harvest.wld'\n이건 또 왜 이러는 걸까요?", "doc_id": null}
+{"id": 161, "text": "Can you explain further what's wrong with the add34.wld result in task1?", "doc_id": null}
+{"id": 3579, "text": "Explain float(input('Side a:')) in task2", "doc_id": null}
+{"id": 3667, "text": "In task 1\nAfter creating the tuple object\nHow can I continue without a correct list", "doc_id": null}
+{"id": 3837, "text": "Yes.You defined har() in Task 4, but there is a part in harvest() that moves and picks but does not use har().Is there any reason?", "doc_id": null}
+{"id": 3483, "text": "Is the Expected output an example given regardless of the actual data?", "doc_id": null}
+{"id": 3137, "text": "I don't think I changed the print_cards() a lot. How can I fix it?", "doc_id": null}
+{"id": 1029, "text": "How do you usually implement code that excludes the first line?", "doc_id": null}
+{"id": 336, "text": "I'm not sure of the initial location of the dealer's hidden card.\nShould I touch the main function?", "doc_id": null}
+{"id": 1871, "text": "In the description of the create_deck function, is Card.state a related attribute of whether the front or back of the card is visible?", "doc_id": null}
+{"id": 552, "text": "Please explain how you calculated the width/height of new_img in Task 2.", "doc_id": null}
+{"id": 2567, "text": "What does join do in Task 1?", "doc_id": null}
+{"id": 2049, "text": "The part where the cat moves in the last line (show animation) doesn't work well\nThis was when draw_animal() was commented out, and if you uncomment it now, you will not see any action.", "doc_id": null}
+{"id": 4250, "text": "Please explain the left_line function and right_line function in task 4", "doc_id": null}
+{"id": 2640, "text": "Please explain the role of l0, l1, and l2 among the variables you created!", "doc_id": null}
+{"id": 1316, "text": "Can you check this task?", "doc_id": null}
+{"id": 2240, "text": "How did you determine if it was a window?\nIs there a reason you're so salty?", "doc_id": null}
+{"id": 3488, "text": "When you img.set, can only integers be entered in the coordinates?", "doc_id": null}
+{"id": 2074, "text": "Actually, I don't know what's wrong with times 2 and 3...", "doc_id": null}
+{"id": 832, "text": "As in other cases, the location of the hidden image is not displayed properly even though the code is written.Could you please take a look?", "doc_id": null}
+{"id": 3575, "text": "When receiving angle\nI am wondering if I should consider receiving it as an integer or even receiving it by mistake", "doc_id": null}
+{"id": 2555, "text": "Please briefly explain how the dec_to_any_string function works!", "doc_id": null}
+{"id": 1423, "text": "Why is there a for statement in line 11?", "doc_id": null}
+{"id": 403, "text": "What is the unit of x in sin(x)?", "doc_id": null}
+{"id": 1960, "text": "Then there is no need to separately hubo=robot(beepers=N)?", "doc_id": null}
+{"id": 3505, "text": "How can we use float increments in for loop?", "doc_id": null}
+{"id": 2331, "text": "How did you write the jump function", "doc_id": null}
+{"id": 3580, "text": "In that example image, after writing t, I thought I had to do a return bank because the code was repeated. Can I modify it??", "doc_id": null}
+{"id": 4237, "text": "In the original memento code, pictures and names were displayed in the form of cards[num1][1], but in the case of objects, I don't know what type to display.", "doc_id": null}
+{"id": 1146, "text": "My code won't stop running\nIt's getting stuck in the img.show() command for some reason", "doc_id": null}
+{"id": 4255, "text": "Can you explain what function check() in Task 2 does?", "doc_id": null}
+{"id": 3855, "text": "Since it's the length of the side, I haven't thought of a negative number.", "doc_id": null}
+{"id": 4372, "text": "Task 2 is somewhat longer than other students. Is there a reason you wrote this?", "doc_id": null}
+{"id": 1673, "text": "By the way, if cards[num1][0]==cards[num2][0] are satisfied, I made it correct.", "doc_id": null}
+{"id": 1044, "text": "What does join do in task 1?", "doc_id": null}
+{"id": 2694, "text": "The result is only the names of countries where latitude is less than 0, so list2[1]<=0 is a conditional statement, but it says that this is not supported ㅠㅠ", "doc_id": null}
+{"id": 3811, "text": "I have a question here, but it didn't work because I did g.write(f).It turns out that f is not a string, so str(f) literally adds a text that tells what f is, and finds that f.\nIs f.read() exactly a function that returns a string when the file called f is now opened??", "doc_id": null}
+{"id": 4472, "text": "I did this, but the list includes \\n. How do I get rid of that?", "doc_id": null}
+{"id": 4270, "text": "Could you briefly explain the meaning of c1, ..., c1000 in Task 1?", "doc_id": null}
+{"id": 3061, "text": "How can I set the threshold for the threshold?", "doc_id": null}
+{"id": 2318, "text": "What does initialize do?", "doc_id": null}
+{"id": 3029, "text": "task 4: explain how you picked it up when there were multiple beepers on the floor", "doc_id": null}
+{"id": 453, "text": "I put rotate in line 87, but why does the result come out the same as not rotating?", "doc_id": null}
+{"id": 1694, "text": "Briefly explain the role of the first_step and last_step functions in task4.", "doc_id": null}
+{"id": 892, "text": "It seems to move based on a specific axis of the layer. Is there a way to move that axis?", "doc_id": null}
+{"id": 3466, "text": "Please briefly explain how the dec_to_any_string function works!", "doc_id": null}
+{"id": 212, "text": "What is the role of notsame?", "doc_id": null}
+{"id": 978, "text": "Which world should I load in task 1?", "doc_id": null}
+{"id": 467, "text": "Please briefly explain the algorithm of Task1 while statement!", "doc_id": null}
+{"id": 932, "text": "And if you put a number that already exists in the correct_list, it just skips. Is this correct?", "doc_id": null}
+{"id": 3696, "text": "Can you tell me what function name I should use to shuffle the cards?", "doc_id": null}
+{"id": 2193, "text": "Please explain the code for task1", "doc_id": null}
+{"id": 4526, "text": "I get an error for a float type pixel. What should I do?", "doc_id": null}
+{"id": 1951, "text": "In task 2, briefly explain the attributes of the Card class.", "doc_id": null}
+{"id": 4235, "text": "Now I thought about stopping at the starting point, dropping the beeper at the starting point, picking it up and ending it\nIt doesn't stop at the point where it started", "doc_id": null}
+{"id": 2303, "text": "Should I also consider the case of negative numbers?", "doc_id": null}
+{"id": 2997, "text": "Why is output_str = '' * (character_count_per_line) needed in Task 5?", "doc_id": null}
+{"id": 1050, "text": "Has confirmed.Can you briefly explain what function jumping is?", "doc_id": null}
+{"id": 4187, "text": "Do I have to apply for inspection for all other tasks separately?", "doc_id": null}
+{"id": 2752, "text": "Which part should I fix??", "doc_id": null}
+{"id": 4471, "text": "Please explain each function in Task3 Hurdle", "doc_id": null}
+{"id": 2101, "text": "As a result of the execution, the output is normal, but when the country code is still entered, the country name is not displayed.", "doc_id": null}
+{"id": 1554, "text": "When implementing count_integer in task2, it seems to have been implemented in a very complicated way, such as creating a two-dimensional list, putting a value, and popping it.", "doc_id": null}
+{"id": 3065, "text": "Can you explain pick_beeper_oneline() and next_line_left_pick_beepers_oneline() in task4?", "doc_id": null}
+{"id": 4213, "text": "I fixed the tan value to be a variable number, but why do I keep getting an error?", "doc_id": null}
+{"id": 831, "text": "Yes, I would like to explain in detail how you implemented Task2~", "doc_id": null}
+{"id": 3284, "text": "Please explain the termination condition in task1", "doc_id": null}
+{"id": 188, "text": "Yes, it's good~ I've also checked task2!Please tell me how you calculated the photo size of the new image in the first place :)", "doc_id": null}
+{"id": 92, "text": "Somewhere, the state of all cards seems to be true, but does the property of the object change once it is determined?", "doc_id": null}
+{"id": 3138, "text": "converted_number = \"\" + str(chr(R)) I think I keep getting an error here. In order to get a 3D-like string as shown in the example, isn't it that integer shouldn't be?", "doc_id": null}
+{"id": 469, "text": "Briefly explain the dothings function", "doc_id": null}
+{"id": 2010, "text": "Can you help with what are the attributes of card class?", "doc_id": null}
+{"id": 3096, "text": "It seems to be indicated when the number entered in 3-2-2 and i match. Is it correct to use the entered number as a global variable?", "doc_id": null}
+{"id": 2653, "text": "Please explain the list called correct", "doc_id": null}
+{"id": 2574, "text": "What is the meaning of the flag in Task5?", "doc_id": null}
+{"id": 1140, "text": "How did you change the code given in task4 and why?", "doc_id": null}
+{"id": 418, "text": "Please explain what eat_line() and eaat_line() are doing in Task1, and why they declared them separately!", "doc_id": null}
+{"id": 2877, "text": "What does bank() in task1 line 53 do?", "doc_id": null}
+{"id": 4294, "text": "If the image is a png file, should I add \".png\" after the image file name?", "doc_id": null}
+{"id": 1884, "text": "Can't a picture drawn with a path be rotated with the rotate command?", "doc_id": null}
+{"id": 3922, "text": "Please briefly explain how to make the list&string returned by each function of Task1.And how did you solve if radix is more than 10?", "doc_id": null}
+{"id": 1725, "text": "I don't know how to knit", "doc_id": null}
+{"id": 1023, "text": "What was the function to color the r, g, b at some location?", "doc_id": null}
+{"id": 1034, "text": "I tried fixing it, but I don't know if it is correct.\nHow do 13 lines come out?\nI think I have no choice but to show 11 or 14 lines, isn't it?", "doc_id": null}
+{"id": 1902, "text": "Is there a way to count beepers under Hubo?\nI want to set the condition to break the last problem when it returns to its original position", "doc_id": null}
+{"id": 2007, "text": "Is there a way to get lb or ub value to count_integers function and write it?", "doc_id": null}
+{"id": 654, "text": "Then, can the n be used as a while loop?", "doc_id": null}
+{"id": 3492, "text": "You have to make one part move, not the whole thing?", "doc_id": null}
+{"id": 792, "text": "How do you draw an ellipse?", "doc_id": null}
+{"id": 1488, "text": "Then, do I just need to show the pictures in the order not in the correct list?", "doc_id": null}
+{"id": 3688, "text": "I just want to ask if there is any other way to call each part of the layer in the different function?", "doc_id": null}
+{"id": 1925, "text": "Is there a way to implement the last task only with if and while without using separate flags?I thought about it for an hour before, but there was no answer.", "doc_id": null}
+{"id": 585, "text": "For Task 2, please explain the mover() function.", "doc_id": null}
+{"id": 1192, "text": "I don't know how to return the deck from create_deck", "doc_id": null}
+{"id": 2864, "text": "Why doesn't the if statement work here??", "doc_id": null}
+{"id": 4594, "text": "Isn't I supposed to change some codes from the previous version and that's it?", "doc_id": null}
+{"id": 1106, "text": "Why do I need lines 23 and 24?", "doc_id": null}
+{"id": 3181, "text": "Please explain how you used the global variable in task 1!", "doc_id": null}
+{"id": 1337, "text": "I keep getting an error that says image index out of range in this line. Why?", "doc_id": null}
+{"id": 3848, "text": "Can you see where the x coordinate is wrong in negative numbers?", "doc_id": null}
+{"id": 3313, "text": "In temp_tuple, the first part is the image itself, and the second part is the file name, right?", "doc_id": null}
+{"id": 1783, "text": "csv is just txt, is it a comma-separated file?I am wondering if the txt contains csv", "doc_id": null}
+{"id": 4227, "text": "Can you explain your code in line 9-10?", "doc_id": null}
+{"id": 696, "text": "Please explain how you used the global variable and how the deposit and withdrawal functions work!", "doc_id": null}
+{"id": 4112, "text": "Why attach (object) when creating a class?", "doc_id": null}
+{"id": 1950, "text": "What criteria can I divide by", "doc_id": null}
+{"id": 3123, "text": "The code is not well understood where the correct_list is used", "doc_id": null}
+{"id": 3650, "text": "Please explain what the turn_bottom function does in task3.", "doc_id": null}
+{"id": 3431, "text": "But the second one is because I don't understand well.", "doc_id": null}
+{"id": 59, "text": "I've written the code, but the robot doesn't move", "doc_id": null}
+{"id": 2585, "text": "Please describe the attributes (img, name, ..) declared in class Card()", "doc_id": null}
+{"id": 2843, "text": "If I remove the correct list from memento2, what should I replace it with?", "doc_id": null}
+{"id": 4311, "text": "Could you explain in detail the process of implementing Task1?", "doc_id": null}
+{"id": 2268, "text": "Please briefly explain how you structured the Card class and how the five functions you wrote work.", "doc_id": null}
+{"id": 4048, "text": "What elements is the cards list in?", "doc_id": null}
+{"id": 383, "text": "You used'if not hubo.on_beeper()' after'if hubo.on_beeper()' in Task 3.Is there any reason you did that?", "doc_id": null}
+{"id": 1263, "text": "Why not...\nThat spyder works...", "doc_id": null}
+{"id": 1864, "text": "I'm curious why this doesn't work\nI want to check this and the other 4 codes", "doc_id": null}
+{"id": 2577, "text": "task 1 Wrong input Can you get a little hint from the criteria?", "doc_id": null}
+{"id": 2146, "text": "I want to define a function for that value value separately, but where can I define it..?????\ndef values(self):\n        if type(self.face)==int:\n            return self.face\n        elif self.face=='Ace':\n            return 11\n        else:\n            return 10\nI want to define it this way!", "doc_id": null}
+{"id": 1497, "text": "Sorry, but at first when I loosen this, I tried to handle it by turning it in one direction only when it hits the wall, but I don't know what to do because of the part that came into it.Could you give me a hint?", "doc_id": null}
+{"id": 4345, "text": "Good morning.When you click Run in Task 1, NameError: name'elice_utils;I get an error saying is not defined.Can you check it out?", "doc_id": null}
+{"id": 4143, "text": "In print_cards, cards in num1 and num2 should be added, but print_cards does not have an input parameter.", "doc_id": null}
+{"id": 1557, "text": "How do you then turn Hubo to the right to see the lower wall?", "doc_id": null}
+{"id": 2992, "text": "please explain how did you use the attributes in class Card() (img, name, ..).", "doc_id": null}
+{"id": 1901, "text": "Number 5 roughly sets the standard for very bright and dark levels, right?", "doc_id": null}
+{"id": 1562, "text": "Then use the given parameter num_list as a new function\nAre you saying that the argument of this list should be filled with list1?", "doc_id": null}
+{"id": 4565, "text": "while (b==1 and (hubo.right_is_clear() or hubo.left_is_clear())):\nWhat did you mean by this part?", "doc_id": null}
+{"id": 2316, "text": "When we first started, we declared a list outside of the function, so we treated it as a global variable, right?\nAnd if you redefine the list in a function like list=[1,2,3], it will be treated differently even if it has the same name as the list outside, right?", "doc_id": null}
+{"id": 4380, "text": "My code seems to work fine when I press run but when I submit it fails everytime.\nIt does not show any error also", "doc_id": null}
+{"id": 923, "text": "when doing count_integer\nCan't we compare from minimum integer to maximum integer only for drawing integer?", "doc_id": null}
+{"id": 3680, "text": "In task number 2, explain how each function was implemented based on the fact that you used the list!", "doc_id": null}
+{"id": 1329, "text": "Can you explain what each if-else does, and why it repeated 9 times?", "doc_id": null}
+{"id": 1089, "text": "The path of task4 is a spiral. Why is it so woven?", "doc_id": null}
+{"id": 1695, "text": "In Task 2, I want to use the layer in the draw_animal() function in the show_animation() function. Can you tell me how to do this?I want to do .move() but it is not defined.", "doc_id": null}
+{"id": 4340, "text": "Can you explain task 3?", "doc_id": null}
+{"id": 1714, "text": "I have a question in Task 3, how can I check if the picture of num1 card and num2 card are the same in check function?", "doc_id": null}
+{"id": 3950, "text": "Is the result correct?", "doc_id": null}
+{"id": 4138, "text": "Is it correct to put such code in the main function?", "doc_id": null}
+{"id": 160, "text": "Why can't the world be created?I got an error", "doc_id": null}
+{"id": 3218, "text": "Please explain task2", "doc_id": null}
+{"id": 4046, "text": "When outputting this, is the first tuple + second tuple required for each country, or does the second appear after all the first tuples come out?", "doc_id": null}
+{"id": 3551, "text": "I declared a variable with create_picture() before using the variable, but I get an error saying that the variable was used before the declaration.But, if you enter a positive angle in vertical, the picture comes out well, so it's more confusing.", "doc_id": null}
+{"id": 3982, "text": "I keep stopping ㅠㅠ", "doc_id": null}
+{"id": 3768, "text": "It seems that we have to flip the first two cards selected in the check function, but I am not sure how to reflect the num1 and num2 values in the print_cards function to do so.", "doc_id": null}
+{"id": 2721, "text": "How did you use the balance variable in Task1?", "doc_id": null}
+{"id": 3589, "text": "Do you know exactly what ord and chr functions do?", "doc_id": null}
+{"id": 961, "text": "How do I make only one part of the layer move?\ntail.rotate(((-1)**i)*10) I tried to move the fish's tail like this", "doc_id": null}
+{"id": 3658, "text": "x = float(i) / 40.0 * 2 * pi\nt=40*sin(x)+40\nYou asked me this way, but please briefly explain the reason~~", "doc_id": null}
+{"id": 1846, "text": "This is Task 2.Once I wrote the code, the title on the top line of the loaded file is included in the list... I'm not sure how to exclude it.", "doc_id": null}
+{"id": 2758, "text": "But what does it mean that the direction is changed?", "doc_id": null}
+{"id": 3687, "text": "What should I do when displaying text on the screen in Task 2?", "doc_id": null}
+{"id": 85, "text": "What is task1's set6 function doing?", "doc_id": null}
+{"id": 10, "text": "Can you explain your code from task1?", "doc_id": null}
+{"id": 2226, "text": "Why did you make an exception after making two repetitions?", "doc_id": null}
+{"id": 766, "text": "I reversed now but still not working", "doc_id": null}
+{"id": 677, "text": "Because I don’t understand the problem\nDo I need to write the contents in those two functions?", "doc_id": null}
+{"id": 2546, "text": "Briefly explain what algorithm you wrote in Task 1!", "doc_id": null}
+{"id": 2906, "text": "img_path\nBecause it's defined\nEach card image file seems to already exist\nI don’t know the name\nTo get the card image\nWhat should I do", "doc_id": null}
+{"id": 1341, "text": "May I ask what kind of intention you originally planned", "doc_id": null}
+{"id": 3747, "text": "What is random.shuffle?", "doc_id": null}
+{"id": 104, "text": "Please explain what you are doing in the clearing_two_raws() function!", "doc_id": null}
+{"id": 747, "text": "I checked Task 1.Please explain the moveandpick_ifexists function.", "doc_id": null}
+{"id": 3232, "text": "I just tried it and I get a Value Error..!\nThere seems to be a problem in the process of appending a float(f4[3])", "doc_id": null}
+{"id": 2977, "text": "Uh... Should show animation be made without input?\nI want to move ant... what should I do...?", "doc_id": null}
+{"id": 4556, "text": "in the harvest_again part\ndef zigzag_half(): # Pick up a beeper while going diagonally.\n    hubo.pick_beeper()\n    for i in range (5):\n        hubo.turn_left()\n        hubo.move()\n        turn_right()\n        hubo.move()\n        hubo.pick_beeper()\n        time.sleep(0.5)\nPlease explain this function", "doc_id": null}
+{"id": 3027, "text": "SyntaxError: invalid syntax\nFile \"hurdle.py\", line 18\n    Close Help_Jump()for i in ran\nTA, what's wrong with it?", "doc_id": null}
+{"id": 3909, "text": "In task4, if I clear the part that checks hubo.right_is_clear(), it works well. Was there a reason for putting this part?", "doc_id": null}
+{"id": 3075, "text": "Did you write the code for part 3 well? Just explain the principle of #3 and it's passed!", "doc_id": null}
+{"id": 119, "text": "What is Task 3 jump_one_hurdle?", "doc_id": null}
+{"id": 4399, "text": "When moving forward, if the left side is empty, I know it as a window and I drop a beeper, but I don't know how to stop when I do that, and how to do it in world2 Can you please explain the direction??", "doc_id": null}
+{"id": 3469, "text": "Why should the dealer's first card be a hidden card?", "doc_id": null}
+{"id": 4075, "text": "I'm not sure why the print card function is divided by the if statement", "doc_id": null}
+{"id": 1803, "text": "In task 2, tell me why you used a while statement instead of an if in line 15.", "doc_id": null}
+{"id": 2804, "text": "From number 3\nfor i in range(248):\nWhat is 248?", "doc_id": null}
+{"id": 1445, "text": "If I set the variable to a(i), can i be a(1), a(2) like this?", "doc_id": null}
+{"id": 2541, "text": "Line 15, just explain why you did it.", "doc_id": null}
+{"id": 4156, "text": "I wonder why the time function is not imported.", "doc_id": null}
+{"id": 1444, "text": "In picture, if x and y coordinates are negative, it won't be taken, right?", "doc_id": null}
+{"id": 3403, "text": "The second task only prints NO, but I can't find where the problem is.", "doc_id": null}
+{"id": 1971, "text": "Maybe in task 2 if direction==\"vertical\" and (angle in range(-89,90)):\nThis is a syntax error, can you help me which part is the problem?", "doc_id": null}
+{"id": 2252, "text": "Please explain the algorithm for task 5", "doc_id": null}
+{"id": 2460, "text": "Please explain the attributes (img, name, ..) declared in class Card() and how you used them.", "doc_id": null}
+{"id": 2170, "text": "I tried fixing it in this way, but a is not str..\nThe output is weird.", "doc_id": null}
+{"id": 1716, "text": "Uh..can you give me a hint..?", "doc_id": null}
+{"id": 1117, "text": "And I get a syntax error in Task 3, I'm not sure why", "doc_id": null}
+{"id": 15, "text": "How did you divide the segments in number 3?", "doc_id": null}
+{"id": 2841, "text": "Can you tell what's wrong with the bird_move(self) function at 163 when executing interactive()?", "doc_id": null}
+{"id": 1768, "text": "In the case of FM, KP, KR, etc. in Task 2, the country name appears differently. I would like to ask which part should be corrected.", "doc_id": null}
+{"id": 3601, "text": "What's the reason you rotate the gun 4 times in the first task?", "doc_id": null}
+{"id": 1092, "text": "In task2 if not hubo.on_beeper():\n        What does hubo.drop_beeper() mean?", "doc_id": null}
+{"id": 719, "text": "This time, there is an error in the execution function...", "doc_id": null}
+{"id": 356, "text": "However, if you change the break position at that spot, an error appears saying that there is no break in the loop.", "doc_id": null}
+{"id": 1720, "text": "What algorithm was used for task 5?\nPlease explain briefly!", "doc_id": null}
+{"id": 4009, "text": "In task2, each data type was matched according to conditions, but the problem continues to appear.Could you please let me know where something went wrong?", "doc_id": null}
+{"id": 761, "text": "if is_triangle(2.3, 4.3, 5.6):\n    print(\"YES\")\nelse:\n    print(\"NO\")\nWhat is the intention of this part...?", "doc_id": null}
+{"id": 3155, "text": "Assistant, but if you remove my_robot.move(), it doesn't come out in zigzag...\nCould you please give me a hint?", "doc_id": null}
+{"id": 201, "text": "Is there any reason why you specified 1 for the number of beepers in Robot(beepers=1)?", "doc_id": null}
+{"id": 376, "text": "Could you explain the spiral function in task4 harvest?", "doc_id": null}
+{"id": 2768, "text": "I don't know why the 3-2-2 is divided by odd even numbers.", "doc_id": null}
+{"id": 1713, "text": "Can you explain the commands in the while statement of Task5?", "doc_id": null}
+{"id": 2642, "text": "How did you implement showing all the pictures at the beginning", "doc_id": null}
+{"id": 2496, "text": "Well, I don't understand. ㅜㅜ What I did is round and round to eat only the outer beeper, but is it that you can express it more simply by using the same for statement?", "doc_id": null}
+{"id": 1928, "text": "Hello, in this problem, the brochure says (You can assume that there are at least two streets and at least two avenues.).Which one is right?", "doc_id": null}
+{"id": 4060, "text": "How did you make sure that the code doesn't finish and keeps receiving inputs in the bank problem?", "doc_id": null}
+{"id": 3513, "text": "But is there a way to call the bodies when using the show function?", "doc_id": null}
+{"id": 4206, "text": "```\nfrom cs1robots import *\nload_world('worlds/hurdles1.wld')\n\nhubo=Robot()\n\ndef turn_right():\n    for i in range(3):\n        hubo.turn_left()\n\ndef jump_hurdle():\n    hubo.move()\n    hubo.turn_left()\n    hubo.move()\n    turn_right()\n    hubo.move()\n    turn_right()\n    hubo.move()\n    hubo.turn_left()\n    \nfor i in range(4):\n    jump_hurdle()\n\n```\n저 부분을 어떻게 수정해야 할까요?", "doc_id": null}
+{"id": 62, "text": "I don't know how to end", "doc_id": null}
+{"id": 4338, "text": "The 33rd line new_img = create_picture(new_w, new_h, (0, 0, 0)) seems to cause an error, but I am wondering if I should not use the create_picture function!", "doc_id": null}
+{"id": 57, "text": "I am wondering why the join function is not executed on line 23", "doc_id": null}
+{"id": 3260, "text": "What elements is the cards list in?", "doc_id": null}
+{"id": 3960, "text": "I don't know what function the if statement in 3-2-2 performs\nIf there is an i in correct_list, is that card printed?", "doc_id": null}
+{"id": 3361, "text": "I figured out that part.However, I was stuck while thinking about how to flip the photo of the number requested by the user without the parameters of num1, num2, and print_cards should be able to print the state that the photo is not flipped and only the number card is present...Could it be??", "doc_id": null}
+{"id": 524, "text": "I fixed it, but it said the range went out again. Is it wrong to add it...", "doc_id": null}
+{"id": 4001, "text": "Fn.remove(Fn[-1]) from task1\nWhy should I do it?", "doc_id": null}
+{"id": 2560, "text": "Briefly explain the role of the image.get(x,y) function and the image.set(x,y, __) function in Task5.", "doc_id": null}
+{"id": 1932, "text": "If the remaining value in task1 is greater than 10, in the example, it is represented by letters such as A and B. How do you do that?", "doc_id": null}
+{"id": 4456, "text": "And task2 also gives this type error, but I am curious about the reason even though I specified it as a float", "doc_id": null}
+{"id": 2733, "text": "What is check_beeper in task1?", "doc_id": null}
+{"id": 4352, "text": "Can I define interactive_example outside of class", "doc_id": null}
+{"id": 3283, "text": "The code doesn't work, but I can't figure out what's wrong.", "doc_id": null}
+{"id": 1791, "text": "Could you explain task 1?", "doc_id": null}
+{"id": 4416, "text": "The reason the range(5,0) does not work is because step 1 is the default, right??", "doc_id": null}
+{"id": 4590, "text": "Please grade!", "doc_id": null}
+{"id": 451, "text": "I am curious about how to write (form) in a csv file in task 3", "doc_id": null}
+{"id": 976, "text": "Is there a way to get Hubo's position in task1?", "doc_id": null}
+{"id": 3907, "text": "If you look at line 99 and line 101, when the layer called oink was put on the canvas and moved, the original onink disappeared.", "doc_id": null}
+{"id": 1879, "text": "Is there an error in line 16 with my code right now?", "doc_id": null}
+{"id": 622, "text": "I keep going round and round, what should I do?\nI don't know how to differentiate between going down and going up...", "doc_id": null}
+{"id": 1406, "text": "Is there a reason for multiplying by 80?", "doc_id": null}
+{"id": 3676, "text": "Then, if the sum of the buffers at the left end exceeds 10\nCan't you express a number more than the last tens digit?", "doc_id": null}
+{"id": 1333, "text": "Please tell me what down_stairs() does in number 3", "doc_id": null}
+{"id": 101, "text": "I tried practicing the task 5 , but after a long while it doesn't seem to  work no matter what I try. I am having a semantic error . Can you please tell me what is the error in my code?", "doc_id": null}
+{"id": 1786, "text": "Please explain the count_integers function of task2~", "doc_id": null}
+{"id": 957, "text": "What's wrong with abs if there is a problem?", "doc_id": null}
+{"id": 4320, "text": "vertical, positive angle\nblank = int((h-j)*tan(rad))\na.set(i+blank, j, img.get(i,j))\nCould you please explain why you need to put that value in the set?", "doc_id": null}
+{"id": 3792, "text": "```\nprint_cards()\n```\nIs this the code you are visualizing?", "doc_id": null}
+{"id": 1024, "text": "Please explain the task 1 harvest or not function", "doc_id": null}
+{"id": 2123, "text": "I read the text file and made a list with split(,). If there is a comma in the country name, the country name is split. How do I put it correctly?", "doc_id": null}
+{"id": 1087, "text": "How did you check whether the pair entered by the player is the correct pair?", "doc_id": null}
+{"id": 1436, "text": "Can you tell me what function move_two_column does in task5?", "doc_id": null}
+{"id": 3834, "text": "In check() function, is the original screen referring to the canvas?", "doc_id": null}
+{"id": 423, "text": "What does the variable a b c do?", "doc_id": null}
+{"id": 1109, "text": "Let me ask you one more thing.What is the role of the check_correct_list() function in Task1?Simply answer", "doc_id": null}
+{"id": 4381, "text": "Are you writing the code after erasing the pass in the part marked pass?\nIt says do something here", "doc_id": null}
+{"id": 1795, "text": "I thought it should be not False because it says if not is_valid, isn't it??", "doc_id": null}
+{"id": 2838, "text": "I divided it by the split, and even spaces were included in the list, so I couldn't use int. Can't I write the rest of the string with int() except spaces?", "doc_id": null}
+{"id": 2289, "text": "In my opinion, to do so, I think you only need to add pick_beeper because it stops at the statement when you exit the while statement at line 37. Can you tell me if this is not possible in the first place or a timeout issue because execution has not been completed?", "doc_id": null}
+{"id": 2078, "text": "I don't understand problem 3, but if n is received, is it to output the value of sin 2pi/n from 0 to n?", "doc_id": null}
+{"id": 4341, "text": "In line 103 below, does the code proceed when is_valid is False?", "doc_id": null}
+{"id": 4033, "text": "What are the elements included in the nakji layer in animation?", "doc_id": null}
+{"id": 1277, "text": "May I ask you 3 questions?I get an error but I don't know why the str doesn't turn into a float", "doc_id": null}
+{"id": 1627, "text": "Briefly explain how you solved Task 5", "doc_id": null}
+{"id": 3842, "text": "What does assert do in the Card class?", "doc_id": null}
+{"id": 1604, "text": "I am not sure how to create the Card class", "doc_id": null}
+{"id": 3271, "text": "FileNotFoundError: [Errno 2] No such file or directory:'output.txt' error appears,\nSince'output.txt' was added to the merge function, wasn't it defined?", "doc_id": null}
+{"id": 2083, "text": "Finally, I'll ask you to explain task5.", "doc_id": null}
+{"id": 4289, "text": "Isn't the hubo.carries_beepers() function a function that puts beepers down?", "doc_id": null}
+{"id": 1005, "text": "Looking at the code, each function was created to move it horizontally and vertically, but for this, there is a hassle of creating a separate function for each moving length.\nCan you answer the reason you wrote the code and if there is any other way you can think of?", "doc_id": null}
+{"id": 4151, "text": "for i in range(5):\n    harvest()\nThis part is repeated too. Should I make it with one function?", "doc_id": null}
+{"id": 56, "text": "in 3-1-2 visualize screen?", "doc_id": null}
+{"id": 3396, "text": "When I run it, I get this error code", "doc_id": null}
+{"id": 2462, "text": "Even if I return, an error occurs at line 105. What does it mean?", "doc_id": null}
+{"id": 3749, "text": "Card.state=False Can I just do this?", "doc_id": null}
+{"id": 350, "text": "Could you briefly explain task5's harvest() function?", "doc_id": null}
+{"id": 2615, "text": "What does assert do in the Card class?", "doc_id": null}
+{"id": 1903, "text": "How many times should Task 3 add it to the question?", "doc_id": null}
+{"id": 4047, "text": "I don't know how to start the writing, can I ask you a question?", "doc_id": null}
+{"id": 4514, "text": "So when I set a new img, do I have to return a for loop again?", "doc_id": null}
+{"id": 1099, "text": "also, explain about the function cleaning in task 2!", "doc_id": null}
+{"id": 632, "text": "Lab 9-1 is resolved and 9-2 seems to be correct, but there is no progress due to an error.Help", "doc_id": null}
+{"id": 4432, "text": "Could you please give me a hint?", "doc_id": null}
+{"id": 2260, "text": "Why did you use the while statement??", "doc_id": null}
+{"id": 299, "text": "Please explain the get () and set () functions used in task5 with parameters", "doc_id": null}
+{"id": 3870, "text": "Could you explain why you changed character_count_per_line like that in task 4?", "doc_id": null}
+{"id": 1546, "text": "I want to use the rotate function, but I figured out how to use the rotate(angle).", "doc_id": null}
+{"id": 851, "text": "In case of No. 22, what happens if the file is not closed above?", "doc_id": null}
+{"id": 4508, "text": "The window keeps saying that the self function is not defined, but what exactly is the self function...?\nTraceback (most recent call last):\n  File \"animation.py\", line 42, in <module>\n    show_animation()\n  File \"animation.py\", line 36, in show_animation\n    w = Canvas.getWidth()\nTypeError: getWidth() missing 1 required positional argument:'self'\nDrawing is done and program will be terminated after 4 seconds.\nIf you erase it, it comes out like this", "doc_id": null}
+{"id": 2206, "text": "Is that because I don't think I can access the ship and balls in show_animation??", "doc_id": null}
+{"id": 1953, "text": "Format your output using % with the print function in Task3.Please briefly explain the reason for using it in relation to the output format!", "doc_id": null}
+{"id": 557, "text": "Can you briefly explain why line 24 if i != 2 in Task 1 is needed?", "doc_id": null}
+{"id": 937, "text": "TypeError: move() takes 2 positional arguments but 3 were given\nI get an error saying", "doc_id": null}
+{"id": 1373, "text": "Yes, but I have a question while writing my assistant's code, so I ask.in class Card(object)\ndef __init__(self, ..., state)\n     self.state = True\nAfter setting it as Card(i).state = False I tried to change the property value in this way, so it didn't work!So I made a function state_true() that changes the state value in the class after continuing to try. Do I have to create a function like this to change the property value of the class?", "doc_id": null}
+{"id": 3296, "text": "How can I make the sleep(n) function?", "doc_id": null}
+{"id": 2125, "text": "So, is there any way to split seq into two?", "doc_id": null}
+{"id": 106, "text": "I tried to show when yesno is False or the dealer or player's value exceeds 21", "doc_id": null}
+{"id": 3194, "text": "def tem_list(self):\n        t = [self.img, self.name, self.state]\n        return t\nWhat is this method of the class for in Task 1!", "doc_id": null}
+{"id": 863, "text": "Can you briefly explain what p and q mean in Task 1?", "doc_id": null}
+{"id": 1412, "text": "Is there any reason you repeated the cross() function 9 times in total?", "doc_id": null}
+{"id": 2663, "text": "How do I check the number of pairs of cards matched instead of the length of the correct_list in Memento??", "doc_id": null}
+{"id": 1624, "text": "Why did you use ==1 in Task 1?", "doc_id": null}
+{"id": 61, "text": "When organizing country names and country codes\nLike example data\nKR not like this\n\"KR\" is organized in this way\nQuotes are not removed by strip.", "doc_id": null}
+{"id": 4190, "text": "task 3: Why did you put i in each of the for statements like that?", "doc_id": null}
+{"id": 4445, "text": "Lastly, please explain the is_valid function created in task 3.", "doc_id": null}
+{"id": 3679, "text": "Can I see what's wrong now...", "doc_id": null}
+{"id": 2171, "text": "I don't know how to deal with it", "doc_id": null}
+{"id": 2087, "text": "Is there any reason I used if-pass in task1??", "doc_id": null}
+{"id": 2523, "text": "Shouldn't it be closed except for a blank?", "doc_id": null}
+{"id": 2368, "text": "if not hubo.on_beeper():\n         hubo.drop_beeper()\nWhat does it mean?", "doc_id": null}
+{"id": 2499, "text": "What is the zigzag function in task 1?", "doc_id": null}
+{"id": 4560, "text": "What is the role of task 2 lap function?", "doc_id": null}
+{"id": 4511, "text": "Why did you write del A[i-1] in task1?", "doc_id": null}
+{"id": 1646, "text": "task 4 How did you determine the window?", "doc_id": null}
+{"id": 2614, "text": "In Task 1, you used two functions, horizontal_step and move_andpick.\nThese two functions do the same thing.Is there any reason you wrote this?", "doc_id": null}
+{"id": 3213, "text": "The function used to put it down is hubo.carries_beepers() in the next video.\nIs this it?", "doc_id": null}
+{"id": 2980, "text": "Please explain how you checked the termination condition of task5", "doc_id": null}
+{"id": 2762, "text": "How far should the animation be implemented?", "doc_id": null}
+{"id": 4385, "text": "image.set(x, y, blue) in task5\nMean?", "doc_id": null}
+{"id": 150, "text": "r = animal.getRadius() What does this code do?", "doc_id": null}
+{"id": 1630, "text": "I am not sure if the minimum path is correct in task 5...", "doc_id": null}
+{"id": 362, "text": "Are you saying return?", "doc_id": null}
+{"id": 3651, "text": "But looking at the functions above, there is no change in the correct_list\nHow can I determine this?", "doc_id": null}
+{"id": 1643, "text": "Hello, I tried as much as possible, but task 5 doesn't finish well\nI'm not sure how to always establish it regardless of the length", "doc_id": null}
+{"id": 203, "text": "I am doing it in a similar way to what I did in hw2 before in task2, but I keep getting an error.I'm not sure what happened.", "doc_id": null}
+{"id": 2269, "text": "How do tuples append to the list?", "doc_id": null}
+{"id": 2610, "text": "Please also explain is_valid() function in task3", "doc_id": null}
+{"id": 3767, "text": "The second method didn't work, so I'm trying to use the first method. What's the grammar error?", "doc_id": null}
+{"id": 1952, "text": "How to fix it", "doc_id": null}
+{"id": 1934, "text": "Should I use num_pad for comparison?", "doc_id": null}
+{"id": 971, "text": "if not cards[num1][2] == cards[num2][2]:\nIs this only the second comparison?", "doc_id": null}
+{"id": 3009, "text": "What is task1's beeper function?", "doc_id": null}
+{"id": 1967, "text": "If you print the southern hemisphere region and enter the country code, isn't it the end of printing the country name?", "doc_id": null}
+{"id": 1103, "text": "What are the functions of the down and climb functions?", "doc_id": null}
+{"id": 4279, "text": "Could you please take a look at TASK2 because I am still getting an error while I am revising it as the TASK2 said...?\nInstead of the global variables x and y, we sort the list and then try to count_integers with first value = minimum value and last value = maximum value.", "doc_id": null}
+{"id": 3528, "text": "So, do I have to set the input outside the function?", "doc_id": null}
+{"id": 341, "text": "Traceback (most recent call last):\n  File \"return.py\", line 2, in <module>\n    my_robot=Robot(orientation='W', avenue=7, street=5)\n  File \"/usr/local/lib/python3.6/site-packages/cs1robots.py\", line 382, in __init__\n    _scene.add(self._image[i])\nAttributeError: 'NoneType' object has no attribute 'add'\n이런 오류가 뜨는 이유는 무엇인가요?", "doc_id": null}
+{"id": 3757, "text": "Task 2: 이 부분을 한줄씩 차근차근 설명해 주세요. 48번줄부터입니다.\n    elif direction == \"horizontal\":\n        move_y = abs(tan(angle/180*pi))\n        new_h = int((w * move_y + h)//1)\n        new_w = w\n        new_img=create_picture(new_w,new_h)\n        for x in range(new_w):\n            for y in range(new_h):\n                new_img.set(x,y,(0,0,0))\n        if angle > 0:\n            for y in range(h):\n                for x in range(w):\n                    (r,g,b)=img.get(x,y)\n                    new_img.set(x,(y+(w-x)*move_y)//1,(r,g,b))", "doc_id": null}
+{"id": 4545, "text": "How did you do the color classification in task5, and where is the code that makes it blue when dark?", "doc_id": null}
+{"id": 459, "text": "Could you briefly explain how you created task2's animation?", "doc_id": null}
+{"id": 4512, "text": "How did you implement task4's rain function?", "doc_id": null}
+{"id": 1508, "text": "I wrote it in the form of img=Image(\"Clubs_10.png\"), but an error appeared.Are you not doing this?", "doc_id": null}
+{"id": 4157, "text": "Since there is no place to move other than the legs, can I make a new movement for the legs to move?", "doc_id": null}
+{"id": 1145, "text": "How can I keep receiving inputs when the program doesn't finish in the bank?", "doc_id": null}
+{"id": 454, "text": "What value do you return?", "doc_id": null}
+{"id": 2634, "text": "How did you create the Task1 merge() function?", "doc_id": null}
+{"id": 4089, "text": "In line 194 of my program, interactive_example() doesn't work at all. Can you check it?", "doc_id": null}
+{"id": 2484, "text": "In task4, did you use x to check if you came to the original position??", "doc_id": null}
+{"id": 1428, "text": "Then, in if number%2==1:, what happens to the break?", "doc_id": null}
+{"id": 3471, "text": "In the case of that help, do you have to run it in a place like sandbox?\nI was wondering if there is a way to run only the terminal separately in elice", "doc_id": null}
+{"id": 773, "text": "What does Card.correct do in Task 1?", "doc_id": null}
+{"id": 1889, "text": "What is the pick_beeper() function in task1?", "doc_id": null}
+{"id": 4028, "text": "Please explain what is the check_pick() function and why it was created.", "doc_id": null}
+{"id": 1189, "text": "How did you implement it in number 2?", "doc_id": null}
+{"id": 3367, "text": "The question next to it says 12 monthly averages in one line.", "doc_id": null}
+{"id": 3942, "text": "Can you explain your codes from line 10 to line 15?", "doc_id": null}
+{"id": 3598, "text": "Please explain what is the input to the randint(lb, ub) function and what the result is.", "doc_id": null}
+{"id": 1690, "text": "If I use the code I wrote, the csv file comes out immediately, and the result is that all the information is collected in one cell by year, and the information is separated but there is no comma between them.So I'm not sure how to put a comma in between..!", "doc_id": null}
+{"id": 2239, "text": "Please explain how you calculated it in skew vertical", "doc_id": null}
+{"id": 1338, "text": "What's the alphabet...", "doc_id": null}
+{"id": 234, "text": "For number 3, please introduce the functions set and rise, and how you repeatedly executed each!", "doc_id": null}
+{"id": 1678, "text": "Can you briefly explain the role of the Task 1 move_and_pick function?", "doc_id": null}
+{"id": 4370, "text": "But when I do this, the global variable could not be updated. It is a tries variable.", "doc_id": null}
+{"id": 4591, "text": "What elements is the cards list in?", "doc_id": null}
+{"id": 4359, "text": "move_tail only moves the tail, right?", "doc_id": null}
+{"id": 3758, "text": "Please explain the reason for doing the task 5 diagonally.", "doc_id": null}
+{"id": 934, "text": "Is every input considered as strings?", "doc_id": null}
+{"id": 3414, "text": "There are three things to do, right?\n1. Two lists of tuples\n2. Southern Hemisphere Country Output\n3. When you type the code, display the country name", "doc_id": null}
+{"id": 4607, "text": "When we declared the class, we made it state. Then, can we use state instead of bool?", "doc_id": null}
+{"id": 4168, "text": "Good morning.There are many functions declared, can you explain the zigzag_down function? :)", "doc_id": null}
+{"id": 2489, "text": "What is the purpose of Digit_list?", "doc_id": null}
+{"id": 744, "text": "Is it common for task2 to process separately when radians are positive or negative?", "doc_id": null}
+{"id": 3514, "text": "Please explain task 3 too!", "doc_id": null}
+{"id": 1417, "text": "Can that part be used in create_deck?", "doc_id": null}
+{"id": 4377, "text": "Then I will briefly explain from task1!", "doc_id": null}
+{"id": 1165, "text": "I don't know what to do in the initial initialize function", "doc_id": null}
+{"id": 834, "text": "Is there a way to put a \"\" on the input or remove it from the information I was given?", "doc_id": null}
+{"id": 2016, "text": "Task 4 doesn't need to receive inputs, right?", "doc_id": null}
+{"id": 1397, "text": "I don't know how to use the random function in 3.2.1", "doc_id": null}
+{"id": 3225, "text": "In Task2, when you split, you split with \", not \". What is the reason?", "doc_id": null}
+{"id": 3156, "text": "for i in correct_list:\n        if num1==i or num2==i:\n            return False\n        if num1==num2:\n            return False\n        if num1<0 or num1>23 or num2<0 or num2>23:\n            return False\nIf you look at this part in task3\nIs there any special intention of putting all three if statements in a for statement?", "doc_id": null}
+{"id": 1163, "text": "What is the condition for the fibonacci() function to end in Task1?", "doc_id": null}
+{"id": 1345, "text": "Please briefly explain how card_string works.", "doc_id": null}
+{"id": 820, "text": "Yeah haha please explain briefly", "doc_id": null}
+{"id": 3246, "text": "So I used self.apple=red_apple and self.apple.Radius, but I'm not sure where this is wrong", "doc_id": null}
+{"id": 2436, "text": "I want to consistently have my command go around the world for all cases but i can only think for this one world", "doc_id": null}
+{"id": 3044, "text": "The while condition at the end of the last time\nI do not know", "doc_id": null}
+{"id": 2191, "text": "The Card object says that the state is not defined. So when I first create the Card object, is the state not properly defined?I'm not sure where it is", "doc_id": null}
+{"id": 1462, "text": "Does it mean that you have to come up front even when you are wrong?", "doc_id": null}
+{"id": 1742, "text": "Is covid19_patient_list a list of dictionaries?", "doc_id": null}
+{"id": 361, "text": "It seems that the one line I want to save in d is properly saved in str format.", "doc_id": null}
+{"id": 3557, "text": "Thank you!Task 1 What does int(beepers/10) in line 34 mean?", "doc_id": null}
+{"id": 1626, "text": "First, it seems that you copied and used the previous code when performing Task3 Trash2. Which task code did you use?", "doc_id": null}
+{"id": 3563, "text": "Explain what variables like u, b, and k in task1 mean and how you used them.", "doc_id": null}
+{"id": 1291, "text": "If you enter an empty string, isn't it just making it end with return?", "doc_id": null}
+{"id": 3413, "text": "I didn't understand well, so what should I do?", "doc_id": null}
+{"id": 1364, "text": "Why should I use that bool?", "doc_id": null}
+{"id": 142, "text": "How did you use task1 to represent numbers over 10 as letters?", "doc_id": null}
+{"id": 445, "text": "In the third task, please briefly explain the role of the change_format function.", "doc_id": null}
+{"id": 1509, "text": "Between country names, how to solve?", "doc_id": null}
+{"id": 3092, "text": "If you do sin = math.sin, does sin become a method?", "doc_id": null}
+{"id": 3228, "text": "What function shuttle_run does in Task 5?", "doc_id": null}
+{"id": 3689, "text": "I get an error ㅜㅜ\nThe object is already on the canvas", "doc_id": null}
+{"id": 2724, "text": "I'm trying to make the dealer's first card invisible, but I tried to make that exception in line 120, but it keeps showing.How can I solve this?", "doc_id": null}
+{"id": 2320, "text": "task 2에서\nYou are dealt an Ace of Diamonds\nDealer is dealt a hidden card\nTraceback (most recent call last):\n  File \"blackjack.py\", line 223, in <module>\n    main()\n  File \"blackjack.py\", line 159, in main\n    card.state = False\nAttributeError: 'list' object has no attribute 'state'\nDrawing is done and program will be terminated after 4 seconds.\n이 오류를 어떻게 해결해야 할지 잘 모르겠습니다", "doc_id": null}
+{"id": 2958, "text": "What other cases should I consider?", "doc_id": null}
+{"id": 3733, "text": "I tried to fix it, but it freezes on a blank screen and only the pad comes out.", "doc_id": null}
+{"id": 4402, "text": "Please explain task3 haha", "doc_id": null}
+{"id": 884, "text": "When the file is read line by line in task 2, does reading automatically end when the file is read, or is it necessary to specify the number of repetitions?", "doc_id": null}
+{"id": 250, "text": "In this task, can you see why only the world is created and no picture is created in it?", "doc_id": null}
+{"id": 4407, "text": "Is it okay if the robot instance name is not Hubo?", "doc_id": null}
+{"id": 1733, "text": "I'm curious why this doesn't work", "doc_id": null}
+{"id": 3261, "text": "How did you do the color classification in task5, and where is the code that makes it blue when dark?", "doc_id": null}
+{"id": 582, "text": "In task 2, why do you have variable 'count'?", "doc_id": null}
+{"id": 2836, "text": "Task 1 I'll give you a brief explanation!", "doc_id": null}
+{"id": 3808, "text": "It worked, but after crossing the first hurdle in hurdle3 (at position 2) I am not sure why my_robot.left_is_clear is true.In my opinion, the front, left, and right are all blocked, so I think I need an else statement, but the code runs fine without the else statement...", "doc_id": null}
+{"id": 1121, "text": "Can you explain what the a,b,c,d variables are?", "doc_id": null}
+{"id": 1849, "text": "Yes, in zigzag, Hubo is looking to the right at first, so I used hubo.turn_left(). Is it okay if the shape of the line at the beginning is different from the picture presented?", "doc_id": null}
+{"id": 4506, "text": "When we get the value in line 74\ncard.value is a method so it doesn't add up.\ncard.value should originally be returned as a number, right?", "doc_id": null}
+{"id": 3814, "text": "What is task4's one_cycle function?", "doc_id": null}
+{"id": 1766, "text": "Can I set the two threshold values appropriately in Task5?", "doc_id": null}
+{"id": 1841, "text": "The same thing is output when it is negative and when it is positive.\nI don’t know why it comes out the same", "doc_id": null}
+{"id": 1261, "text": "Why is only the value of side a appearing...?ㅠㅠ", "doc_id": null}
+{"id": 1205, "text": "in the example code we have 61 as 3D in base 16 but the conversion tutorial only gives remainders so how did we get a character", "doc_id": null}
+{"id": 3751, "text": "I have a question about task1. If you withdraw more money than you have, isn't it that you print the amount you can withdraw and then withdraw the real money?", "doc_id": null}
+{"id": 3838, "text": "What is the f.read() function in task1?", "doc_id": null}
+{"id": 385, "text": "Does the shortest path mean that the program will not run through the parts which do not have the  beeper?  Or does it mean that the program  will have the shortest lines of code?", "doc_id": null}
+{"id": 4073, "text": "It looks like it was well salted, but I don’t know why", "doc_id": null}
+{"id": 3189, "text": "I want to check the file of task 3, how do I use send_file??", "doc_id": null}
+{"id": 833, "text": "And can I leave the matched card with the picture visible?", "doc_id": null}
+{"id": 1042, "text": "File \"skew.py\", line 38\n    for y in range (h):\nI get this error, what's wrong?", "doc_id": null}
+{"id": 121, "text": "Task5 Can you explain how you made it\nPlease explain including how you set the stop condition", "doc_id": null}
+{"id": 2208, "text": "However, in the case of a text file, is it impossible to read it again once it is read through the for statement?", "doc_id": null}
+{"id": 3730, "text": "How did you write the code to print the country name when you input the country code at the end?", "doc_id": null}
+{"id": 151, "text": "I for i in range (number of numbers): command repeats a few times. I'm not sure what it means if something else goes into the range because I learned it in class like this ㅜㅜ", "doc_id": null}
+{"id": 731, "text": "What is the error in this code", "doc_id": null}
+{"id": 1118, "text": "I'm wondering how to put uppercase English letters like in hexadecimal.", "doc_id": null}
+{"id": 3637, "text": "I named the list b and returned b. Why is that? ㅠㅠ How do I set the list to return?", "doc_id": null}
+{"id": 630, "text": "Isn't it possible to output it like expected output?", "doc_id": null}
+{"id": 541, "text": "Should input and output be included in my code in Task 1?\nWhen defining a function", "doc_id": null}
+{"id": 4207, "text": "This time, an error occurs in the pass. Why is that?", "doc_id": null}
+{"id": 4304, "text": "How did you write the merge function in Task 1?", "doc_id": null}
+{"id": 3812, "text": "I want to move the object\nI don't know how to fix the error.", "doc_id": null}
+{"id": 2097, "text": "I get an error\nI don't know where I was wrong", "doc_id": null}
+{"id": 1352, "text": "I made a str called tpmon, elice_utils.send_file('tpmon.csv') Will it become csv if I use this?", "doc_id": null}
+{"id": 1611, "text": "Overall, I changed it using the classes card and deck, but at this time an error occurred about using the state as it is in the if statement.\nIt states that the error occurred on line 82.\nFile \"memento.py\", line 82, in is_valid\n    if deck.cards[num1].state or num2 in deck.cards[num2].state or num1>23 or num2>23 or num1==num2:\nTypeError: argument of type'bool' is not iterable", "doc_id": null}
+{"id": 2493, "text": "Why elif num1 == num2: I get an error here...", "doc_id": null}
+{"id": 3354, "text": "Is there a reason for defining jump_up() and jump_down() separately in stair_up() and stair_down()?", "doc_id": null}
+{"id": 1881, "text": "Can I touch the outside of ###?", "doc_id": null}
+{"id": 503, "text": "Briefly explain how the bank function handles input values!", "doc_id": null}
+{"id": 1893, "text": "Briefly explain the base conversion process in task1", "doc_id": null}
+{"id": 3824, "text": "Can I just split for \"and then use only 1, 3, 4 times in ['','AD',',','Andorra',',42.5,1.5\\n']?", "doc_id": null}
+{"id": 4225, "text": "What function is summing in task1?", "doc_id": null}
+{"id": 1552, "text": "How to create csv file..?", "doc_id": null}
+{"id": 967, "text": "Then, if you just k=processing(), the process will be executed.", "doc_id": null}
+{"id": 4504, "text": "Let's proceed from Task1!Please explain what the return value of row_add() you implemented is!", "doc_id": null}
+{"id": 636, "text": "Explain the role of the s and f variables in Task 1, respectively!\n        s=input_filenames\n        f=open(s[i],'r')", "doc_id": null}
+{"id": 936, "text": "The code did not finish executing by the timeout and was killed.I can't submit because of the message, what should I do?", "doc_id": null}
+{"id": 2378, "text": "task3 Is it your intention to open one card at a time when you first start?", "doc_id": null}
+{"id": 1309, "text": "It seems that the image location was specified correctly in task 2, but it looks weird on the screen, so I'm not sure whether it is correct or not.\nIf the state is True, the image is the front side, and if the state is False, the image is the back side. Can't I do this?", "doc_id": null}
+{"id": 419, "text": "What is a check function", "doc_id": null}
+{"id": 1686, "text": "Are you using radians to convert to radians?", "doc_id": null}
+{"id": 694, "text": "Task 2 Describe your actions in lines 18-25!", "doc_id": null}
+{"id": 1692, "text": "It looks like the card should be flipped over at run time.\nDo we have to code the process of inversion?", "doc_id": null}
+{"id": 2067, "text": "text = Text('Your total: %d'% b)\n        text.moveTo(500, 150)\n        text.setColor('yellow')\n        bj_board.add(text)\nI did this but it doesn't work\ncan you help me?", "doc_id": null}
+{"id": 2089, "text": "while hubo.carries_beepers() in task2:\nWhat does hubo.drop_beeper() mean?", "doc_id": null}
+{"id": 4312, "text": "What is the reason for setting reverse_cards and print_cards separately?", "doc_id": null}
+{"id": 3841, "text": "Can you tell me why you used this condition while left_not_clear in task 5?", "doc_id": null}
+{"id": 2798, "text": "Please briefly explain Hubo's movements (conditions, etc.) how you solved task 4 rain.", "doc_id": null}
+{"id": 197, "text": "Could you explain what the harvest_one_time function in Task 4 does?", "doc_id": null}
+{"id": 1674, "text": "I think I added text for the player's hand but I don't understand why its showing in the top left corner", "doc_id": null}
+{"id": 3691, "text": "But in the process of turning, the left or right side is blocked, so it stops in the middle. What should I do with this?", "doc_id": null}
+{"id": 2487, "text": "As in the video where the instruction is written, I wanted to make the object move according to the input value, so I wrote the code, but the moving part does not work.", "doc_id": null}
+{"id": 1330, "text": "Does the readlines() function print the read contents as a list rather than a string?", "doc_id": null}
+{"id": 984, "text": "Tuples are included, but if the pictures are the same, aren't they the same?", "doc_id": null}
+{"id": 3211, "text": "Yes I checked~~ What is the deck list, dealer list, and player list in task 2?", "doc_id": null}
+{"id": 2731, "text": "Can you explain zig and zag functions?", "doc_id": null}
+{"id": 2914, "text": "Please explain the functions dec_to_any_list and dec_to_any_string used in task 1!", "doc_id": null}
+{"id": 4040, "text": "What is count()?", "doc_id": null}
+{"id": 1425, "text": "I have a question. When the number of divisions is 16, the remainders are output as hexadecimal numbers. When the number is more than 10, is only 16 displayed like this?", "doc_id": null}
+{"id": 1303, "text": "In the second task blackjack, please briefly explain the role of the hand_value method.", "doc_id": null}
+{"id": 19, "text": "I defined the command of repeat as a full movement going up and down but it is saying that there is an error when i use hubo.repeat", "doc_id": null}
+{"id": 1482, "text": "Please briefly explain how to assign colors in task5", "doc_id": null}
+{"id": 2002, "text": "Please explain how you solved each problem!", "doc_id": null}
+{"id": 3991, "text": "then I wrote\ni == num1 or i == num2 as the condition\nis it correct way?", "doc_id": null}
+{"id": 1228, "text": "In task1, it seems that only half the cards are displayed at first. Did you do that on purpose?", "doc_id": null}
+{"id": 3791, "text": "It says that the code has been executed, but only a black screen is displayed.Is there any way to check if my robot is really moving?", "doc_id": null}
+{"id": 1998, "text": "I'm not sure what the sandbox for robot does.", "doc_id": null}
+{"id": 981, "text": "task 5: Explain the role of the check() function to someone who is new to the code, and let me know.", "doc_id": null}
+{"id": 131, "text": "Why is task4 divided by n-1?", "doc_id": null}
+{"id": 1169, "text": "It seems that each tries in 3-2-4 adds one more time. Can't you use +=?", "doc_id": null}
+{"id": 157, "text": "I get list object is nor callable error", "doc_id": null}
+{"id": 870, "text": "How do I code for the boundary case then? when m=1?", "doc_id": null}
+{"id": 2514, "text": "```\n    You should use help function-\n    help('cs1graphics.Image') -> about Image(), moveTo(), setDepth()\n    help('cs1graphics.Text') -> about Text(),moveTo(), setDepth()\n    \"\"\"\n    depth = 100\n    x0,y0 = 100,100\n    x1,y1 = 100,300\n\n    bj_board.clear()\n    i=1\n    bj_board.add(self.image)\n    self.image.moveTo()\n\n```\nDo I need to merge the images after forming a rectangle in this part, or just add an image?", "doc_id": null}
+{"id": 2901, "text": "But I get an error", "doc_id": null}
+{"id": 3234, "text": "What is check_number in task1?", "doc_id": null}
+{"id": 904, "text": "How do I draw a fan in Python?", "doc_id": null}
+{"id": 313, "text": "For tasks 1 and 2, please explain what functions facing_north() and carries_beepers() are respectively.", "doc_id": null}
+{"id": 890, "text": "in while_north()\nwhile hubo.front_is_clear():\n            hubo.move()\nWhy do you need this part?", "doc_id": null}
+{"id": 1774, "text": "can you explain your is_triangle function?", "doc_id": null}
+{"id": 2463, "text": "I thought d is a number, but when I run it, I get an error saying string", "doc_id": null}
+{"id": 1190, "text": "How did you flip the matched cards upside down instead of using the correct_list?", "doc_id": null}
+{"id": 4513, "text": "How did you decide how to translate and put the pixel values in task2?", "doc_id": null}
+{"id": 379, "text": "What is make_polygon?", "doc_id": null}
+{"id": 2019, "text": "I think we can use isalpha function, right?", "doc_id": null}
+{"id": 408, "text": "Then it says nonetype object is not iterable", "doc_id": null}
+{"id": 2865, "text": "What do you do in the initialize function", "doc_id": null}
+{"id": 1170, "text": "What kind of role is a variable?", "doc_id": null}
+{"id": 3917, "text": "Can you explain zig and zag functions?", "doc_id": null}
+{"id": 1447, "text": "Please briefly explain how the five functions you wrote work.", "doc_id": null}
+{"id": 196, "text": "And is the part where you use floats wrong...?TypeError says'integer argument expected, got float', so,", "doc_id": null}
+{"id": 903, "text": "i dont understand\nwhy it's showing an indent error now\nit's supposed to be 3 spaces right", "doc_id": null}
+{"id": 329, "text": "What does back_goup() function in 3?", "doc_id": null}
+{"id": 2873, "text": "How did you implement the addition in step 1?", "doc_id": null}
+{"id": 1218, "text": "Is it returned as a tuple?", "doc_id": null}
+{"id": 3882, "text": "Task 5 Please explain the cornering functions", "doc_id": null}
+{"id": 1015, "text": "I don't know why I am getting an error here", "doc_id": null}
+{"id": 1575, "text": "Please briefly explain the elements of the cards list.", "doc_id": null}
+{"id": 2309, "text": "I don't have a good sense of what exactly is the way to save is_triangle", "doc_id": null}
+{"id": 1313, "text": "I have finished writing the code, but it does not run well.\nCan you tell me which part is wrong..?", "doc_id": null}
+{"id": 2184, "text": "What is the role of f_temp in task1?", "doc_id": null}
+{"id": 776, "text": "How do I pick it up...?", "doc_id": null}
+{"id": 2975, "text": "How do I set the condition on line 110?\nWhen it was a list, I simply thought of the length\nI am not sure what to do when using the new datatype.", "doc_id": null}
+{"id": 3854, "text": "How did you process the data in #2?", "doc_id": null}
+{"id": 3012, "text": "Direction : vertical\nAngle : 30\nTraceback (most recent call last):\n  File \"skew.py\", line 55, in <module>\n    skew(img, direction, angle)\n  File \"skew.py\", line 35, in skew\n    new_img = create_picture(new_w, new_h)\n  File \"/usr/local/lib/python3.6/site-packages/cs1media.py\", line 98, in create_picture\n    p = Picture(_Image.new(\"RGB\", (width, height), color))\n  File \"/usr/local/lib/python3.6/site-packages/PIL/Image.py\", line 2331, in new\n    return Image()._new(core.fill(mode, size, color))\nTypeError: integer argument expected, got float\n이번엔\n이런오류가뜨네요,,", "doc_id": null}
+{"id": 2277, "text": "How do I get rid of the double quotation marks?", "doc_id": null}
+{"id": 2557, "text": "Why do we need float() in task 2's is_triangle?", "doc_id": null}
+{"id": 1346, "text": "so in 3-1-1, there are 3 conditions\nand I'm not sure how to code for that\nshould I use nested conditionals?", "doc_id": null}
+{"id": 3243, "text": "i do not understand how the correct_list is supposed to work", "doc_id": null}
+{"id": 1096, "text": "I implemented the interactive method in the way described in lab10, getDescription?What is the difference between getKey?", "doc_id": null}
+{"id": 4276, "text": "Please also briefly explain the reason why you should use the while statement, not the for statement loop, in the process of picking up the beeper.", "doc_id": null}
+{"id": 2069, "text": "Task 1. Please explain what are l, k, s, respectively", "doc_id": null}
+{"id": 1266, "text": "Please briefly explain the behavior of the function jump.", "doc_id": null}
+{"id": 409, "text": "I made set1 and set2 repeat each other so that all the cells can pass regardless of the value of avenues. So, should I change it to while?", "doc_id": null}
+{"id": 1573, "text": "And in task3, at check() why did you write line 84~86?", "doc_id": null}
+{"id": 1507, "text": "What is the unit of x?", "doc_id": null}
+{"id": 1078, "text": "However, I want to terminate the while statement as soon as k=2 without doing action 2 at the last corner. Is there any way?", "doc_id": null}
+{"id": 2249, "text": "How do I know if the pictures on the cards corresponding to the two numbers I entered are the same?", "doc_id": null}
+{"id": 3011, "text": "What is boost() function?", "doc_id": null}
+{"id": 1358, "text": "What does beepers=1 do in line 4 of Task 3?", "doc_id": null}
+{"id": 1349, "text": "By the way, how do you put the added beeper at the end?", "doc_id": null}
+{"id": 2233, "text": "But if you don't use the reader function, how do you separate the commas in the country name?", "doc_id": null}
+{"id": 4297, "text": "Please briefly explain the functions up and down that you wrote down in number 3 as well!", "doc_id": null}
+{"id": 262, "text": "The class I understand is to store the card name, image, and state all in one class element. Is there anything wrong?", "doc_id": null}
+{"id": 3319, "text": "What information does an object of class Card in task2 have?", "doc_id": null}
+{"id": 4408, "text": "What do you mean there should be no input in the bank function?", "doc_id": null}
+{"id": 2021, "text": "Can you explain the function of print_cards() function?", "doc_id": null}
+{"id": 1957, "text": "I used .count(i) in count_integer, but the number of each integer is output as 0", "doc_id": null}
+{"id": 4436, "text": "Can you briefly explain turn_right?", "doc_id": null}
+{"id": 2440, "text": "I showed the picture at first\nIf it’s showing the number card again\nDoesn't that process have to be repeated twice?", "doc_id": null}
+{"id": 1455, "text": "It says not enough arguments for format string", "doc_id": null}
+{"id": 47, "text": "I don't understand. so we need to print of sin(what degree) too?", "doc_id": null}
+{"id": 2065, "text": "When I use the code I wrote in task 5, a picture that meets the conditions of the problem comes out, but I can't say that the code has been executed. What should I do?", "doc_id": null}
+{"id": 4268, "text": "task 2 Please explain the move_u function", "doc_id": null}
+{"id": 2371, "text": "The input is received outside the function, right?", "doc_id": null}
+{"id": 807, "text": "I am wondering why my code keeps printing false in task 2", "doc_id": null}
+{"id": 2818, "text": "Animation #2 is\nIs it correct to make the shape in the layer move globally?", "doc_id": null}
+{"id": 2793, "text": "Why is the condition checked???", "doc_id": null}
+{"id": 1769, "text": "Is there a thread-like function in python??", "doc_id": null}
+{"id": 2868, "text": "In the second task, when the dealer's state is false, it checks, but why not check the player?", "doc_id": null}
+{"id": 2036, "text": "How did you separate the windows and walls in task4??", "doc_id": null}
+{"id": 1334, "text": "while (3,6)!=hubo.get_pos() and a!=1: When I did this, I'm not sure why Hubo doesn't move even though a!=1", "doc_id": null}
+{"id": 1826, "text": "I don't know what to put in the image property among the properties of the Card class. It seems like I'm talking about putting it later when creating Image().\nI have a path\nHow do I name it?", "doc_id": null}
+{"id": 2166, "text": "Please explain what each print_cards function does", "doc_id": null}
+{"id": 3417, "text": "What does join do in this code?", "doc_id": null}
+{"id": 190, "text": "Could you briefly explain how you implemented task2's animation?", "doc_id": null}
+{"id": 1446, "text": "What is the height of a pixel?", "doc_id": null}
+{"id": 1536, "text": "global num1 = int(input~~)) Isn't there any grammatical error when doing this like this.....?I don't know why I get a syntax error,,", "doc_id": null}
+{"id": 2788, "text": "Can you briefly explain the role of the eatline() function in task5?", "doc_id": null}
+{"id": 2313, "text": "In the Card class, deck became a list of lists because I created and used a function that returns a list with suit, face, value, image, and state as elements.By the way, since the card is a deck.pop, it will be in the form of a list, and if you do card.state for this card, the state value should be displayed.", "doc_id": null}
+{"id": 1773, "text": "Oh, and there seems to be some error in task1, but I don't know the cause\nI think the balance didn't come out when I withdrawal", "doc_id": null}
+{"id": 2325, "text": "What does list.count do in Task 2?", "doc_id": null}
+{"id": 3142, "text": "Oh then, in that state, is it impossible to put a += 1 into the while statement in count()..?", "doc_id": null}
+{"id": 397, "text": "In the process of including the picture in the attribute of the object, an error occurred in the part where I wrote img in path, but I am not sure how to fix it.", "doc_id": null}
+{"id": 3936, "text": "Please explain why you created the check_beeper_all() function and what the function does.", "doc_id": null}
+{"id": 1853, "text": "When using a string, adding numbers to the string is not good.\nCurrently, the string appears as '303'. How do I make it '3', '0'?\nI tried to separate the single string, but when I think about it, I think I just need to remove the end of '303'", "doc_id": null}
+{"id": 281, "text": "I am unable to load files\ncould you please check what is wrong", "doc_id": null}
+{"id": 4, "text": "How can you tell a corner from a window in task 4?", "doc_id": null}
+{"id": 4285, "text": "Then, if you use a while statement in the case of repeating, it does not automatically exit when it ends..?I don't know how to apply the loop.", "doc_id": null}
+{"id": 743, "text": "In the tuple, the ingredient is a tuple, right?...", "doc_id": null}
+{"id": 4325, "text": "First, is it correct to use tuple for number pads in memento 1?", "doc_id": null}
+{"id": 2495, "text": "Please explain how you used the layer in task 2 and the movement of each shape you created.", "doc_id": null}
+{"id": 1160, "text": "I have a question.I can't get a sense of how to distinguish when going from (9,3) to (9,4) in TASK4 and when passing through the window. In both cases, it is open to all sides..", "doc_id": null}
+{"id": 2391, "text": "check function\nPlease explain", "doc_id": null}
+{"id": 2812, "text": "Oh, then horse1.color=\"blue\" Isn't horse1 newly defined because the color becomes blue with just one line?", "doc_id": null}
+{"id": 3034, "text": "what should I do?", "doc_id": null}
+{"id": 3008, "text": "What exactly does the print_cards() function do", "doc_id": null}
+{"id": 1913, "text": "Ah...but it keeps past the starting point.I'm sorry, can you confirm?", "doc_id": null}
+{"id": 2079, "text": "But when I do it with return “WRONG_INFORMATION”, an invalid character in identifier error appears. What format should I return?", "doc_id": null}
+{"id": 2730, "text": "I made it simple by introducing a function, and I was trying to put the four arithmetic operations in the loop statement. I think the upper code in the picture and the code in the quotes below are the same, but the one above works, but the one below does not", "doc_id": null}
+{"id": 4195, "text": "Please tell me the name of the function you are adding in Task1!", "doc_id": null}
+{"id": 925, "text": "```\nfor i in range input_filenames:\n        f = open(\"i\", \"r\")\n```\nJust a question\nI started late due to circumstances. Can I read the file like this?", "doc_id": null}
+{"id": 430, "text": "Is the tpmon.csv file wrong for task 3?", "doc_id": null}
+{"id": 599, "text": "i task 1, i used this to reverse a string\nfor i in range(len(l)):\n            new_num = new_num+l[len(l)-1-i]\nis there any better way", "doc_id": null}
+{"id": 2220, "text": "But also in code, only the first card of the dealer is hidden. Am I wrong?", "doc_id": null}
+{"id": 3254, "text": "Why did task1 divide the turn type function into 4?", "doc_id": null}
+{"id": 3918, "text": "Does the csv format mean to change tymon.csv to the one divided by ,?", "doc_id": null}
+{"id": 3056, "text": "I asked a question because if I tried to move it like car.move(2, 0) after adding it to _scene, it would not move.", "doc_id": null}
+{"id": 2225, "text": "It says that the str object cannot be appended, so how do I move the str objects mentioned in the assignment to the list?", "doc_id": null}
+{"id": 3136, "text": "Is there any reason for t=\"123456789ABCDEFG\"?", "doc_id": null}
+{"id": 1709, "text": "invalid literal for int() with base 10:'' Why am I getting this error?", "doc_id": null}
+{"id": 2968, "text": "Isn't it a matter of adding 1, 93, 8, 74 up and down when looking at the original world in add34?", "doc_id": null}
+{"id": 1359, "text": "What does the clear_a_line function do in step 4?", "doc_id": null}
+{"id": 171, "text": "What is the standard of brightness in task5?Is it random?", "doc_id": null}
+{"id": 933, "text": "Then, should the moving parts be made in the show_animation() function instead of the draw_animal() function?", "doc_id": null}
+{"id": 2182, "text": "Please explain the stair function you used in step 3 and how you used it when going up/down stairs.", "doc_id": null}
+{"id": 4603, "text": "Does write in CSV format have to be expressed using commas per line?Or does it have to appear in line 2?", "doc_id": null}
+{"id": 854, "text": "The robot keeps repeating zigzags, but I don't know how to stop it.", "doc_id": null}
+{"id": 3060, "text": "Why is the 47th line like that?\nIt says it's an indentation problem", "doc_id": null}
+{"id": 2349, "text": "At number 3\nhubo.move()\ntime.sleep(0.2)\nhubo.drop_beeper()\ntime.sleep(0.2)\nhubo.turn_left()\ntime.sleep(0.2)\nhubo.turn_left()\ntime.sleep(0.2)\nCan you explain what this part does?", "doc_id": null}
+{"id": 4183, "text": "Please explain what each print_cards function and check function do in the task now~", "doc_id": null}
+{"id": 1454, "text": "I couldn't understand why I keep getting similar result as task4", "doc_id": null}
+{"id": 1002, "text": "What method did task1 use to read and write external files?", "doc_id": null}
+{"id": 693, "text": "The average monthly temperature is the average temperature over the entire period (n years), right?", "doc_id": null}
+{"id": 499, "text": "I don't know why value is not assigned to task 2", "doc_id": null}
+{"id": 4580, "text": "If I'm correct, I don't put in reverse, but in the else of check, I put in reverse all the wrong cases so that when it is wrong, it reverses again. Where is the problem?", "doc_id": null}
+{"id": 2898, "text": "Hello, is there a reason you used harvest_line_down and harvest_line_up only once?", "doc_id": null}
+{"id": 3125, "text": "How do I change the range from -1 to +1 in task 4 from 0 to 80?", "doc_id": null}
+{"id": 723, "text": "I have a queation about task 2.\nI want the objects to be global, so I build all of them outside a function, but if I want them to be built inside a funtion, how may I do that?", "doc_id": null}
+{"id": 3877, "text": "What is the reason for writing odd_line and even_line?", "doc_id": null}
+{"id": 3003, "text": "I want to change the str type to float type", "doc_id": null}
+{"id": 1137, "text": "Task 4: What does place_for_window() do?", "doc_id": null}
+{"id": 3924, "text": "Let me ask you how the img.get() and img.set() functions work when they receive some input!", "doc_id": null}
+{"id": 3327, "text": "I don't know where in the code I wrote is wrong and the m and l values are weird.", "doc_id": null}
+{"id": 3386, "text": "How does the animation move??", "doc_id": null}
+{"id": 298, "text": "Please explain the function of each of the user-defined functions.", "doc_id": null}
+{"id": 3074, "text": "correct_list.append(0,24) Can't it?", "doc_id": null}
+{"id": 1937, "text": "When creating an animation, can draw_animal() only create animals and create the background outside?", "doc_id": null}
+{"id": 3926, "text": "What is the role of the else statement on line 35?", "doc_id": null}
+{"id": 678, "text": "In line 13 format\nWhat does g mean?", "doc_id": null}
+{"id": 3188, "text": "Could you please tell me where to put the break?!!", "doc_id": null}
+{"id": 1503, "text": "If I use carries_beepers() in task2, is it correct to drop all the beepers the robot has?", "doc_id": null}
+{"id": 3187, "text": "What does while not my_robot.on_beeper(): mean in task3?", "doc_id": null}
+{"id": 2043, "text": "In the task 3 do we need to convert them into the list first or they have been already converted", "doc_id": null}
+{"id": 3081, "text": "For task 2, is it possible to collect using the condition of (carry the total number of beepers = true)?", "doc_id": null}
+{"id": 404, "text": "Even if the depth of the card is changed, the card is not visible and an error occurs when typing the keyboard is difficult to correct.", "doc_id": null}
+{"id": 4474, "text": "Why did you do it separately without zig() in #39-45?", "doc_id": null}
+{"id": 755, "text": "Oh, then, in this game, if it is invalid, is it only output wrong and tries not to update, that is, is it recognized as invalid?", "doc_id": null}
+{"id": 1658, "text": "W and h+int(w*tan(angle)), is there any negative number..?", "doc_id": null}
+{"id": 2978, "text": "Should I use my_robot..?", "doc_id": null}
+{"id": 748, "text": "Could you give me a brief explanation of what works in task2", "doc_id": null}
+{"id": 2408, "text": "so is the attribute a boolean?", "doc_id": null}
+{"id": 2902, "text": "What are number and number_back functions?", "doc_id": null}
+{"id": 1484, "text": "What does the round function do, round up/down/round?", "doc_id": null}
+{"id": 2957, "text": "The dealer's first card is hidden, so you have to write back.png, and do you draw the rest while sticking to the side?", "doc_id": null}
+{"id": 3717, "text": "How can I change the center point when rotating the rectangle?", "doc_id": null}
+{"id": 1705, "text": "Should task2 be finished after printing pictures?", "doc_id": null}
+{"id": 1523, "text": "I don't know why the error occurs in the winter average of task 3 ㅜㅜㅜㅜ", "doc_id": null}
+{"id": 1019, "text": "Does that list need to be processed further?", "doc_id": null}
+{"id": 3504, "text": "Please explain how you used the layer in task 2 and the movement of each shape you created.", "doc_id": null}
+{"id": 3258, "text": "I keep getting timeouts in task 5, is it okay?The first black and white code is also timed out.", "doc_id": null}
+{"id": 2382, "text": "So, is it supposed to get everything in the 4 if statement?", "doc_id": null}
+{"id": 132, "text": "Doesn't it matter if the player's Total always comes out?", "doc_id": null}
+{"id": 146, "text": "I wanted to ask in the homework there is a task in which we need to use match attribute but we write only __init__(self, name)\nis there any way to do that?", "doc_id": null}
+{"id": 3176, "text": "I'm not sure why the index error occurs at this point, TA, can you give me a little hint of where I left it?\nI can't see anything right now, so I need help;;;", "doc_id": null}
+{"id": 3548, "text": "And when I just ran it, I didn't use global, but can I see why the tries is updated?", "doc_id": null}
+{"id": 4568, "text": "Please explain task4 harvest 2 row function", "doc_id": null}
+{"id": 810, "text": "Task 1. Please explain variable ‘r’ and ‘w’ in open(). ", "doc_id": null}
+{"id": 4480, "text": "It would be nice to know how to apply in other cases, but I can't think of a good way.", "doc_id": null}
+{"id": 2373, "text": "A[0].strip('\"')\n    A[1].strip('\"')\nShouldn't the \"\" disappear when doing this?", "doc_id": null}
+{"id": 1389, "text": "What are the conditions for outputting \"Yes\" in Task2?", "doc_id": null}
+{"id": 3360, "text": "I'm curious about the principle, but how are a, b, c received as inputs recognized as the parameters in the is_triangle function?", "doc_id": null}
+{"id": 3777, "text": "Why can I delete line 17 from Task 3?", "doc_id": null}
+{"id": 4099, "text": "Is there any more explanation?", "doc_id": null}
+{"id": 1167, "text": "Can you see why you created the task1 harvest function?", "doc_id": null}
+{"id": 2573, "text": "Is angle an integer or a real number?", "doc_id": null}
+{"id": 1765, "text": "ValueError: int() base must be >= 2 and <= 36 occurs, but I haven't dealt with the base itself. What is the cause?", "doc_id": null}
+{"id": 4172, "text": "I get an indentation error at line 58.I don't know what's wrong", "doc_id": null}
+{"id": 318, "text": "Do I need to print the original picture size in task2?", "doc_id": null}
+{"id": 2802, "text": "Isn't it in random.shuffle(cards) above...?", "doc_id": null}
+{"id": 3101, "text": "I'm sorry, but I can't see our answer.Could you please give me a hint?", "doc_id": null}
+{"id": 1666, "text": "Can you check the code again??It's code 89-90.", "doc_id": null}
+{"id": 1812, "text": "Can we keep b every time we run the function?", "doc_id": null}
+{"id": 4453, "text": "When I ran the TA in Task 2, a syntax error appeared, but I don't know why.", "doc_id": null}
+{"id": 2336, "text": "I tried running the code, but when I had to turn to the right, I turned to the left and the progress wasn't working..ㅠ", "doc_id": null}
+{"id": 2165, "text": "Could you briefly explain the function of the addd function in Task 1?", "doc_id": null}
+{"id": 1300, "text": "Explain what line 42 means.", "doc_id": null}
+{"id": 2828, "text": "Please explain each function in Task3 Hurdle", "doc_id": null}
+{"id": 774, "text": "The task description says to finish looking east, but if you try to do that, Hubo keeps moving because the front is blocked. How can I stop this?", "doc_id": null}
+{"id": 183, "text": "Can is_valid do this?", "doc_id": null}
+{"id": 416, "text": "When writing from a file, if you want to break a line / you have to do n in the opposite direction / but the opposite direction is not on the keyboard. How do I do this?", "doc_id": null}
+{"id": 3351, "text": "How did you notice that there is a window in Task4?", "doc_id": null}
+{"id": 3592, "text": "I changed it to int(num) instead of 30. Is it doing this?", "doc_id": null}
+{"id": 2628, "text": "Can you explain in summary the operation process of Task5?", "doc_id": null}
+{"id": 3519, "text": "Since the while statement appears after print_card() in the main function, isn't it that all cards are invisible?", "doc_id": null}
+{"id": 4284, "text": "In fact, Rap 6 Memento has managed to pass, so I don’t understand how it works\nI understand the class well, but I'm crazy because I don't know how it works.\n# 3-2-2.rewrite the condition for visualization.\nWhat to do here", "doc_id": null}
+{"id": 3521, "text": "In task 5, I created a function called zigzag. How do I repeat this friend in the general case?", "doc_id": null}
+{"id": 2317, "text": "I don't want to run it more than once anyway, so I can put if?", "doc_id": null}
+{"id": 2458, "text": "In average_list, I used a list called num_list as a parameter, but I'm not sure why the argument is empty only in count_integer", "doc_id": null}
+{"id": 2726, "text": "In order to visualize num1 cards and num2 cards in the check function of Task 3, should the print_cards function be properly modified and used?", "doc_id": null}
+{"id": 3616, "text": "Lastly, please explain task 2", "doc_id": null}
+{"id": 2187, "text": "Please explain what upper_bound does in Task 1", "doc_id": null}
+{"id": 387, "text": "Then, did you deliberately turn on set_trace after determining the world size?", "doc_id": null}
+{"id": 2253, "text": "Well, but with that list for i in range(min(num_list),max(num_list)):\n        I don't know how to move num_list.count(i)", "doc_id": null}
+{"id": 388, "text": "No such file or directory:'output.txt' I keep getting this error, can you tell me where is wrong?", "doc_id": null}
+{"id": 2698, "text": "I returned True after new_img.show(), but couldn't finish, so can you give me a hint on how to close it?", "doc_id": null}
+{"id": 2913, "text": "Could you just check for errors?", "doc_id": null}
+{"id": 2986, "text": "Do you still need to add a picture card to the canvas to make the picture card visible in task3?", "doc_id": null}
+{"id": 3191, "text": "Good morning.I did what you told me, but when I press s, the puppy disappears at all. Could you please check it?", "doc_id": null}
+{"id": 1906, "text": "Where do I put the wld file to run on my computer?", "doc_id": null}
+{"id": 4415, "text": "Why did you run sets() first before entering while?", "doc_id": null}
+{"id": 4101, "text": "I have a question about task 1.Isn't that what you want in the problem to add the numbers in row 1 and row 2 of each x value to row 2?I don't understand how the numbers 2,2,9,1 come up.", "doc_id": null}
+{"id": 2963, "text": "if i<4:\n        hubo.turn_left()\n        hubo.move()\nCould you please explain why you added this part?", "doc_id": null}
+{"id": 230, "text": "Why do you need two nested for statements in Task 5?", "doc_id": null}
+{"id": 2627, "text": "Can you please look at line 36 in task2\nI made it like that when I was doing Homework 2, but can I do that here?", "doc_id": null}
+{"id": 3350, "text": "in task5\nimage.set(x, y, yellow)\nMean?", "doc_id": null}
+{"id": 3566, "text": "What is readlines() in task1?", "doc_id": null}
+{"id": 1752, "text": "for i in range(upper_bound):\n        if i==(result[-1]+result[-2]):\n            result.append(i)\nPlease briefly explain the process of how this part creates a Fibonacci sequence less than upper_bound!", "doc_id": null}
+{"id": 4579, "text": "What information does an object of class Card in task2 have?", "doc_id": null}
+{"id": 1047, "text": "the first step my robot is taking is a half step\nI don't know why that's occuring", "doc_id": null}
+{"id": 2674, "text": "I don't understand the role of the print_cards function", "doc_id": null}
+{"id": 180, "text": "In task 3, we have to finally save it as a csv file, but here we use the csv module to write it, right?", "doc_id": null}
+{"id": 1622, "text": "Oh, should I add ABCD in base 11?", "doc_id": null}
+{"id": 3620, "text": "I don't know how to express the return value of the function.", "doc_id": null}
+{"id": 3873, "text": "Even if the skew function is called, nothing comes out as output.", "doc_id": null}
+{"id": 610, "text": "Please explain how you implemented task 1 card class~!", "doc_id": null}
+{"id": 1110, "text": "how to add in class image arg?\nI mean we can't write self.image=image?\nOr self.image=Image(path)", "doc_id": null}
+{"id": 3434, "text": "I checked to see if only the line h is 0 at vertical +30, but it also shows out of range.Do you have any problems with the img function?", "doc_id": null}
+{"id": 660, "text": "if cnt>=10:\r\n            for i in range(cnt%10):\r\n                hubo.drop_beeper()\r\n            hubo.move()\r\n            for i in range(cnt//10):\r\n                hubo.drop_beeper\r\n            turn_right()\r\n            hubo.move()\r\n            turn_right()\r\n            cnt=0\nI wrote the code that moves the beeper as much as the share here, but Hubo doesn't drop the beeper, but I don't know why,,,", "doc_id": null}
+{"id": 3201, "text": "Then, shouldn't you ever use str in dec_to_any_list function?", "doc_id": null}
+{"id": 930, "text": "I changed it, but why is it still weird?", "doc_id": null}
+{"id": 405, "text": "So I looked up and found that I had to use csv.reader(f) to support indexes as I wanted. Can I do this task without csv.reader(f)?", "doc_id": null}
+{"id": 2406, "text": "Can you explain the code after line 32 of Task5??", "doc_id": null}
+{"id": 2386, "text": "Can you explain when each attribute of Card class is used in Task2?", "doc_id": null}
+{"id": 3987, "text": "The local variable'a' referenced before assignment keeps appearing. Could you please tell me where it is wrong?", "doc_id": null}
+{"id": 3633, "text": "We would be grateful if you briefly tell us about the role of the variable t used in Task3!", "doc_id": null}
+{"id": 877, "text": "In that case, can I just drag all the code and click Ask a Question?", "doc_id": null}
+{"id": 3992, "text": "First of all, please explain from task1!", "doc_id": null}
+{"id": 1459, "text": "Do I have to repeat the process of removing the image before fixing and then popping up the retouched image in order to bring it back up?", "doc_id": null}
+{"id": 2172, "text": "Can you explain task 2 algorithm?", "doc_id": null}
+{"id": 4080, "text": "I'm not sure what the facing_north() function does", "doc_id": null}
+{"id": 360, "text": "Please explain the c and d variables", "doc_id": null}
+{"id": 176, "text": "Briefly explain the role of the image.get(x,y) function and the image.set(x,y, __) function in Task5.", "doc_id": null}
+{"id": 1549, "text": "Please briefly explain what csv.reader does", "doc_id": null}
+{"id": 2300, "text": "Briefly explain what algorithm you wrote in Task 1", "doc_id": null}
+{"id": 200, "text": "I gave up on being tested because I wasn't feeling too impressed.", "doc_id": null}
+{"id": 2227, "text": "Line 37 for i in range(min(num_list), max(num_list) + 1): Could you briefly explain the reason for setting the range like this?", "doc_id": null}
+{"id": 1988, "text": "What does e = _scene.wait() mean?", "doc_id": null}
+{"id": 3821, "text": "I ask how the is_valid function works.", "doc_id": null}
+{"id": 1665, "text": "Is the arrangement of the beeper in the edit world saved together?", "doc_id": null}
+{"id": 2195, "text": "Task 1: Explain what each of the global variables a, b, c is!", "doc_id": null}
+{"id": 3337, "text": "If you are stuck in Task 2, can I get some help?\nI keep returning only True now, but I don't know why.", "doc_id": null}
+{"id": 2649, "text": "What does while not my_robot.on_beeper(): mean in task3?", "doc_id": null}
+{"id": 980, "text": "Please explain the task2 jump hurdle function", "doc_id": null}
+{"id": 2292, "text": "I am not sure why data_type = {'string':,'float':} is an invalid syntax in Task 2.", "doc_id": null}
+{"id": 1762, "text": "I don't know what to do anymore... I don't know how to apply what I've learned", "doc_id": null}
+{"id": 775, "text": "I'm editing task1, but it doesn't work.I remember how many I picked, so when there are more than 10, I tried to put one on the left and subtracting 10 from the other, but the count seems to be not working well.", "doc_id": null}
+{"id": 1384, "text": "How do you create new_img when'horizontal' is input as Direction in Task2?", "doc_id": null}
+{"id": 4505, "text": "Assistant, when I convert this code to the last csv file and export it, I don't know why only 1970's data is updated.\nI am going to open the tpmon.csv file and write the average monthly temperature according to the year there, but I have to write it for each year.\nHow can I fix that part?", "doc_id": null}
+{"id": 1755, "text": "Is the state information stored differently for each card, or is the information of the card class itself (that is, do all card class objects have the same state information)?", "doc_id": null}
+{"id": 3059, "text": "print('You've withdrawn',Y,'won')\n                ^\nSyntaxError: invalid syntax\nIt comes out like this, what should I do?", "doc_id": null}
+{"id": 532, "text": "What does the up variable do in your code?", "doc_id": null}
+{"id": 9, "text": "Why did you use moveTo rather than move to move the butterfly wings in the second task?", "doc_id": null}
+{"id": 433, "text": "task5 I have modified the green part, but is the range of the green part limited?", "doc_id": null}
+{"id": 784, "text": "is it efficient to do it by making the robot go out and close the windows and then come in again?\nor we can do it without moving the robot move outside of the window", "doc_id": null}
+{"id": 2445, "text": "In task2, the canvas is not defined. How do I draw a picture?", "doc_id": null}
+{"id": 1904, "text": "Isn't carries_beepers a function that sets beepers?", "doc_id": null}
+{"id": 4373, "text": "Please explain why it was so salty", "doc_id": null}
+{"id": 2759, "text": "So, are you referring to the case of using the input function to input the user's key?", "doc_id": null}
+{"id": 3934, "text": "What does it mean to have two brackets like cards[i][0]?", "doc_id": null}
+{"id": 3561, "text": "Please also briefly explain the reason why you should use the while statement, not the for statement loop, in the process of picking up the beeper.", "doc_id": null}
+{"id": 2073, "text": "Could you please explain what functions hubo_run() and hubo_round() are respectively?", "doc_id": null}
+{"id": 2404, "text": "Task 1: card.img = Image(path+names[i])\n            card.name = names[i]\n            card.state = True\n            cards.append(card)\nFor each of these four variables, please explain what they are for, what their types are, and what values actually go in.", "doc_id": null}
+{"id": 1148, "text": "so that means we will have to implement the print_cards() function more than once in the program?", "doc_id": null}
+{"id": 3520, "text": "Is there any reason why you didn't put the two for statements at the bottom of Task1 in the for statement at the top?", "doc_id": null}
+{"id": 526, "text": "Shouldn't return show True or False in the result when the function is executed?", "doc_id": null}
+{"id": 1317, "text": "What is the role of variable n in task5?", "doc_id": null}
+{"id": 2346, "text": "Can you briefly explain the role of set_position?", "doc_id": null}
+{"id": 2360, "text": "Can't float convert a string to a number?", "doc_id": null}
+{"id": 2689, "text": "I don't know why the error appears in the second line of task3", "doc_id": null}
+{"id": 1204, "text": "In Task 2, in order not to confuse each function, you declared that you would use the canvas as a global canvas, but when you use it within a function, do you automatically find the global variable, Canvas?", "doc_id": null}
+{"id": 4417, "text": "Yes it seems to work fine!Please briefly explain the codes", "doc_id": null}
+{"id": 392, "text": "The confusing thing is that, assuming n is an integer, you only need to handle exceptions when it is greater than 0. Is it necessary to check the type by entering a decimal point like 2.3?", "doc_id": null}
+{"id": 3193, "text": "I'm having a hard time flipping back after showing the card at first.Can you give me directions?", "doc_id": null}
+{"id": 4510, "text": "Why is facing_north() used in task1?", "doc_id": null}
+{"id": 2711, "text": "I don't know why the error occurs...", "doc_id": null}
+{"id": 4271, "text": "Format your output using % with the print function in Task3.Please briefly explain the reason for using it in relation to the output format!", "doc_id": null}
+{"id": 2897, "text": "How is number used in this task?", "doc_id": null}
+{"id": 4160, "text": "Can you briefly explain what the l, s, and h variables are used in Task 5?", "doc_id": null}
+{"id": 2896, "text": "Yes I checked.Can you explain how each attribute of Card is used in Task2?", "doc_id": null}
+{"id": 3764, "text": "What does the print_cards function do?", "doc_id": null}
+{"id": 3286, "text": "Also, I'm getting the there's a wall in front of me error. that wall really hurt.", "doc_id": null}
+{"id": 1970, "text": "What does the withdrawal function do?", "doc_id": null}
+{"id": 977, "text": "Isn't showing the image of the card showing the number chosen by the person playing this game as a whole?", "doc_id": null}
+{"id": 531, "text": "What is the role of the Zig_Zag() function in Task1?", "doc_id": null}
